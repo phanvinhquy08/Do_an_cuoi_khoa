@@ -1,1229 +1,1426 @@
 {
-    "cinemas": [
-        {
-            "id": 0,
-            "name": "Starlight Đà Nẵng",
-            "location": "Tầng 4 - Tòa Nhà Nguyễn Kim, 46 Điện Biên Phủ, Quận Thanh Khê, Tp. Đà Nẵng",
-            "introduce": "Rạp Starlight Đà Nẵng nằm ở TT Nguyễn Kim - Điện Biên Phủ, Đà Nẵng, được xây dựng với tiêu chuẩn rạp Hollywood, chuẩn âm thanh Dolby 7.1, màn hình lớn, sắc nét. Starlight Đà Nẵng là 1 trong các rạp chiếu phim rất nhộn nhịp ở thành phố đáng sống nhất Việt Nam hiện nay. Thuộc chuỗi giải trí Starlight, khán giả đến đây sẽ có nhiều lựa chọn giải trí trước và sau khi chiếu phim. Cùng hệ thống trà sữa tích hợp, Starlight Đà Nẵng quả là điểm đến giải trí số 1 cho khán giả trẻ."
-        },
-        {
-            "id": 1,
-            "name": "CGV Vĩnh Trung Plaza",
-            "location": "255-257 đường Hùng Vương, Q. Thanh Khê, Tp. Đà Nẵng",
-            "introduce": "Xem Lịch chiếu và Mua vé CGV Vĩnh Trung Plaza- rạp CGV toàn quốc dễ dàng - nhanh chóng tại Moveek. Rạp CGV Vĩnh Trung Plaza nằm ở đường Hùng Vương - Thanh Khê, được xây dựng với tiêu chuẩn rạp Hollywood, chuẩn âm thanh Dolby 7.1, màn hình lớn, sắc nét. CGV Vĩnh Trung Plaza với 6 phòng chiếu là 1 trong các rạp chiếu phim đầu tiên ở Đà Nẵng và là rạp chiếu đầu tiên của CGV cinema tại đây. Gặp nhiều cạnh tranh, CGV Vĩnh Trung Plaza luôn cam kết chất lượng giải trí cao nhất với giá vé hấp dẫn nhất."
-        },
-        {
-            "id": 2,
-            "name": "Lotte Đà Nẵng",
-            "location": "Tầng 5 Lotte Mart Đà Nẵng, P. Hòa Cường Bắc, Q. Hải Châu, Tp. Đà Nẵng",
-            "introduce": "Lịch chiếu phim Lotte Đà Nẵng- rạp Lotte toàn quốc đầy đủ & tiện lợi nhất. Rạp Lotte Đà Nẵng nằm ở tầng 5 Lotte Mart Đà Nẵng, với 4 phòng chiếu phim (479 chỗ ngồi) hiện đại, chất lượng âm thanh đỉnh cao. Lotte Đà Nẵng luôn không ngừng nâng cấp để mang đến những giây phú giải trí thoải mái nhất."
-        },
-        {
-            "id": 3,
-            "name": "Galaxy Đà Nẵng",
-            "location": "Tầng 3 Coop Mart, 478 Điện Biên Phủ, Quận Thanh Khê, Đà Nẵng",
-            "introduce": "Xem Lịch chiếu và Mua vé Galaxy Đà Nẵng- rạp Galaxy toàn quốc dễ dàng - nhanh chóng tại Moveek. Rạp Galaxy Đà Nẵng nằm ở CoopMart Đà Nẵng, được xây dựng với tiêu chuẩn Hollywood, có 7 phòng chiếu, chuẩn âm thanh Dolby 7.1. Galaxy Đà Nẵng dù ra mắt muộn hơn so với các rạp chiếu phim khác nhưng luôn cam kết chất lượng dịch vụ tốt nhất và giá cả cạnh tranh nhất."
-        }
-    ],
-    "movies": [
-        {
-            "id": 0,
-            "name": "ẨN DANH - SEARCH OUT",
-            "time": 93,
-            "kind": "Hành động, hồi hộp",
-            "premiere": "05/29/2020",
-            "author": "Kwak Jung",
-            "character": "Lee Si-eon, Kim Sung-chul, Heo Ga-yoon, Ju Si-hyun, Kim Seo-yeon",
-            "language": "phụ đề tiếng Việt",
-            "rate": 8,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Chàng trai đang học thi cảnh sát Seong-min và chàng trai đang tìm việc làm Jun-hyeok cảm thấy nghi ngờ về vụ tự tử của một cô gái cùng sống trong khu nhà trọ. Cùng với sự trợ giúp của hacker Noo-rie, cả hai lùng theo tung tích trên mạng xã hội của cô gái xấu số. Cuộc điều tra dẫn đến những kết quả không thể kiểm soát được, khiến cho Seong-min Jun-hyeok và Noo-rie trở thành mục tiêu của tội phạm mạng xã hội."
-        },
-        {
-            "id": 1,
-            "name": "QUỶ LÙN TINH NGHỊCH: CHUYẾN LƯU DIỄN THẾ GIỚI - TROLLS WORLD TOUR",
-            "time": 97,
-            "kind": "Hoạt hình, gia đình",
-            "premiere": "05/29/2020",
-            "author": " Walt Dohrn",
-            "character": "Justin Timberlake, Anna Kendrick, Sam Rockwell, Chance The Rapper, Anthony Ramos",
-            "language": "Phụ đề Tiếng Việt, Lồng tiếng Tiếng Việt",
-            "rate": 8,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": true,
-            "content": "Quay trở lại với thế giới quỷ lùn lần này là tiết lộ về 6 tộc người lùn đại diện cho 6 thể loại âm nhạc khác nhau. Poppy và nhóm bạn sẽ phải đối mặt với “kẻ ác” hoàn toàn mới lạ, đó là Barb - nữ hoàng nhạc rock đang âm mưu tiêu diệt các thể loại nhạc còn lại để thống trị thế giới."
-        },
-        {
-            "id": 2,
-            "name": "ÁC QUỶ RỪNG SÂU - BABA YAGA",
-            "time": 97,
-            "kind": " Kinh dị,Hành động",
-            "premiere": "05/22/2020",
-            "author": "Svyatoslav Podgaevsky",
-            "character": "Oleg Chugunov, Glasha Golubeva, Artem Zhigulin, Igor Khripunov, Svetlana Ustinova",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 7.5,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Ác Quỷ Rừng Sâu kể về một cặp vợ chồng trẻ đang tìm kiếm bảo mẫu để chăm sóc đứa con gái mới chào đời. Thế nhưng người được thuê về lại khiến cả đứa bé ấy và cậu con trai lớn Egor kinh sợ. Một ngày, Egor phát hiện người bảo mẫu và em gái mình biến mất một cách đầy bí ẩn"
-        },
-        {
-            "id": 3,
-            "name": "KẺ ĐÀO TẨU GIẤC MƠ - COMA",
-            "time": 120,
-            "kind": "Viễn tưởng,Phiêu lưu",
-            "premiere": "05/29/2020",
-            "author": "Nikita Argunov",
-            "character": "Rinal Mukhametov, Anton Pampushnyy, Lyubov Aksyonova, Miloš Biković, Konstantin Lavronenko",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 7.5,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Một kiến trúc sư trẻ tài năng tỉnh dậy sau một tai nạn kinh hoàng và phát hiện rằng anh ta đang lạc trong một thế giới khác kỳ lạ và hỗn loạn. Thế giới đó được gọi là COMA và ở đó những toà nhà, những dòng sông và thành phố đều có thể tồn tại trong cùng một không gian của một căn phòng. Những định luật vật lý anh được học không còn đúng ở thế giới này và bên cạnh việc thích nghi, anh ta còn phải chiến đấu để bảo vệ mạng sống của mình cũng như tìm cách để thoát ra, trở về với thế giới thực..."
-        },
-        {
-            "id": 4,
-            "name": "TRẬN CHIẾN MIDWAY",
-            "time": 137,
-            "kind": "Hành động",
-            "premiere": "05/29/2020",
-            "author": "Roland Emmerich",
-            "character": " Ed Skrein, Patrick Wilson, Luke Kleintank, Luke Evans, Woody Harrelson",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8.5,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Trận Chiến Midway lấy bối cảnh trong Thế Chiến thứ 2 sau sự kiện Trân Châu Cảng nổi tiếng, tái hiện trận đánh lịch sử Midway - điểm nóng quan trọng tại Thái Bình Dương"
-        },
-        {
-            "id": 5,
-            "name": "SAMSAM - SAMSAM SIÊU NHÂN TẬP SỰ",
-            "time": 137,
-            "kind": "Hoạt hình,Gia đình",
-            "premiere": "05/06/2020",
-            "author": "Tanguy de Kermel",
-            "character": "Isaac Lobé-Lebel, Lior Chabbat, Jeremy Prevost, Sébastien Desjours, Léopold Vom Dorp",
-            "language": "Lồng tiếng Tiếng Việt",
-            "rate": 8,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": true,
-            "content": "Nhóc tì siêu quậy Samsam có tất cả mọi thứ mà bao đứa trẻ trên hành tinh Sam đều mơ ước: bố mẹ là hai siêu anh hùng nổi tiếng, học tập ở một ngôi trường danh giá chuyên đào tạo các thế hệ siêu nhân tương lai, thậm chí Samsam còn có hẳn một đĩa bay riêng để vi vu khắp nơi khắp chốn. Thế nhưng, cậu bé lại không có chút siêu năng lực nào, hoàn toàn khác biệt với tất cả các thành viên trong gia đình cũng như bạn bè đồng trang lứa. Bố mẹ lo lắng, bè bạn trêu ghẹo, Samsam bắt đầu hành trình tới hành tinh Marth bí ẩn cùng người bạn mới Mega, quyết tâm tìm kiếm sức mạnh ẩn tiềm của bản thân mình."
-        },
-        {
-            "id": 6,
-            "name": "CĂN PHÒNG ĐẪM MÁU - LINGERING",
-            "time": 110,
-            "kind": "Kinh dị",
-            "premiere": "05/06/2020",
-            "author": "Yoon Eun-gyeong",
-            "character": "Lee Se-young, Park Ji-young, Park Hyo-ju",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8.5,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Những câu chuyện kỳ lạ xung quanh khách sạn đẫm máu khiến người ta hóa điên. Tại khách sạn này, có 3 điều tuyệt đối không được làm: không được ngước nhìn lên, không được đi một mình và không được bước vào phòng 405."
-        },
-        {
-            "id": 7,
-            "name": "KẺ TRỰC ĐÊM - THE NIGHT CLERK",
-            "time": 100,
-            "kind": "Kinh dị",
-            "premiere": "05/06/2020",
-            "author": "Michael Cristofer",
-            "character": "Tye Sheridan, Ana de Armas, Helen Hunt, John Leguizamo, Johnathon Schaech",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 7.5,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Bart Bromley là một tiếp tân khách sạn trực ca đêm. Anh trẻ, thông minh nhưng mắc chứng rối loạn lo âu xã hội – rất khó giao tiếp với người khác. Biết chứng bệnh của mình, anh học cử chỉ, hành động và lối ăn nói của người khác ...thông qua các camera an ninh của khách sạn."
-        },
-        {
-            "id": 8,
-            "name": "TÔI LÀ NÃO CÁ VÀNG",
-            "time": 97,
-            "kind": "Lãng mạn,Tâm lý",
-            "premiere": "05/06/2020",
-            "author": "Lê Hướng Nam",
-            "character": "Khánh Hiền, Thu Trang, La Thành, Tuấn Trần, Kiều Minh Tuấn",
-            "language": "Tiếng Việt,Phụ đề Tiếng Anh",
-            "rate": 7,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Tôi Là Não Cá Vàng xoay quanh cuộc sống của một nhà thiết kế thời trang xinh đẹp nhưng mắc căn bệnh Alzheimer. Với cô, mỗi ngày đều là một ngày mới vì những ký ức ngày cũ dường như tan biến cả."
-        },
-        {
-            "id": 9,
-            "name": "GIA TÀI TỘI LỖI - INHERITANCE",
-            "time": 119,
-            "kind": "Kinh dị,Ly kỳ",
-            "premiere": "06/12/2020",
-            "author": "Vaughn Stein",
-            "character": "Lily Collins, Simon Pegg, Connie Nielsen, Chace Crawford, Patrick Warburton",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Lauren Monroe, một luật sư trẻ đầy triển vọng, là con cả của một gia đình giới thượng lưu, bề thế, tưởng như hoàn hảo, tại New York. Khi cha cô đột ngột qua đời, thay vì được thừa hưởng một gia tài kếch xù, cô chị cả Lauren chỉ được trao một chiếc chìa khóa riêng dẫn đến một căn hầm bỏ hoang trong khuôn viên của gia đình. Ngay tại nơi này, cô phát hiện món thừa kế phần mình lại là một người đàn ông bí ẩn bị giam cầm trong nhiều năm ngay dưới căn hầm tối tăm suốt 30 năm qua mà không một ai hay biết."
-        },
-        {
-            "id": 10,
-            "name": "GIẢI CỨU CÂY ƯỚC NGUYỆN - THE WISHMAS TREE",
-            "time": 87,
-            "kind": "Phiêu lưu,Hoạt hình",
-            "premiere": "06/12/2020",
-            "author": "Ricard Cussó",
-            "character": "Miranda Tapsell, Ross Noble, Kate Murphy, Ricard Cussó",
-            "language": "Phụ đề Tiếng Việt,Lồng tiếng Tiếng Việt",
-            "rate": 7,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": true,
-            "content": "Kerry, một cô nàng thú túi nhận được một điều ước và cô đã ước rằng cô có thể có một cây Ước Nguyện màu trắng. Thế nhưng, cách mà cô ước lại hoá sai và tệ hại hơn, nó làm đóng băng toàn bộ thành phố Sanctuary City của cô, còn đe dọa cuộc sống của tất cả những người sống ở đó."
-        },
-        {
-            "id": 11,
-            "name": "BẢN GIAO HƯỞNG MÁU - SONATA",
-            "time": 97,
-            "kind": "Ly kỳ,Hồi hộp",
-            "premiere": "06/12/2020",
-            "author": "Mason Cade Packer",
-            "character": "Mark Tilley, Larnell Shadd",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 7.5,
-            "playing": true,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Để làm sáng tỏ quá khứ của người cha quá cố, nữ nghệ sĩ violon trẻ tuổi đã vô tình kích hoạt những thế lực đen tối vượt qua trí tưởng tượng bình thường của con người."
-        },
-        {
-            "id": 12,
-            "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
-            "time": 0,
-            "kind": "Hành động,Phiêu lưu",
-            "premiere": "10/06/2020",
-            "author": "Cate Shortland",
-            "character": "Scarlett Johansson, Florence Pugh, David Harbour, O.T. Fagbenle, Rachel Weisz",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
-        },
-        {
-            "id": 12,
-            "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
-            "time": 0,
-            "kind": "Hành động,Phiêu lưu",
-            "premiere": "10/06/2020",
-            "author": "Cate Shortland",
-            "character": "Scarlett Johansson, Florence Pugh, David Harbour, O.T. Fagbenle, Rachel Weisz",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
-        },
-        {
-            "id": 13,
-            "name": "CHỊ MƯỜI BA 2 - 3 NGÀY SINH TỬ",
-            "time": 0,
-            "kind": "Hài hước,Hành động,Tâm lý",
-            "premiere": "12/18/2020",
-            "author": "Võ Thanh Hòa",
-            "character": "Thu Trang, Tiến Luật, Kiều Minh Tuấn",
-            "language": "Tiếng Việt,Phụ đề Tiếng Anh",
-            "rate": 8,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Kiếp giang hồ, vào dễ khó ra. Những tưởng sau khi lật đổ ông trùm Hắc Hổ, đồng thời đập tan âm mưu thâm độc của Anh Hai, Chị Mười Ba cùng An Cư Nghĩa Đoàn đã có thể yên ổn làm ăn. Thế nhưng, cuộc đời mà, cái quái gì cũng đều xảy ra được. Những kẻ thù mới lại tiếp tục xuất hiện, khiến cho cuộc sống của anh em An Cư Nghĩa Đoàn rúng động thêm lần nữa. Chị Mười Ba đã nhập cuộc trở lại và… bầm dập hơn xưa."
-        },
-        {
-            "id": 14,
-            "name": "VÙNG ĐẤT CÂM LẶNG 2 - A QUIET PLACE PART II",
-            "time": 0,
-            "kind": "Hài hước,Hành động,Tâm lý",
-            "premiere": "09/04/2020",
-            "author": "John Krasinski",
-            "character": "Emily Blunt, Cillian Murphy, Millicent Simmonds, Noah Jupe, Djimon Hounsou",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Gia đình Abbot gồm người mẹ Evelyn cùng ba con chạy trốn đến một thành phố tưởng như an toàn. Tuy nhiên, cả gia đình không ngờ rằng ở thế giới bên ngoài cũng đã bị những sinh vật ngoài hành tinh thâu tóm.Vùng đất câm lặng lúc này đã trở thành “thế giới câm lặng” khi những người sống sót tiếp tục phải lẩn trốn, không được tạo ra tiếng động mỗi khi di chuyển hay giao tiếp với nhau."
-        },
-        {
-            "id": 15,
-            "name": "NỮ THẦN CHIẾN BINH 1984 - WONDER WOMAN 1984",
-            "time": 0,
-            "kind": "Hành động,Phiêu lưu",
-            "premiere": "08/14/2020",
-            "author": "Patty Jenkins",
-            "character": "Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal, Connie Nielsen",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Wonder Woman 1984 sẽ lấy bối cảnh năm 1984, khi Mỹ và Liên Xô đối đầu trong thời kỳ Chiến tranh Lạnh. Đặc biệt cũng hé lộ sự trở lại bí ẩn của Steve Trevor – người đã hy sinh anh dũng nhằm ngăn chặn kế hoạch phát tán chất độc của Đức quốc xã."
-        },
-        {
-            "id": 16,
-            "name": "KẺ XÂM NHẬP - INTRUDER",
-            "time": 0,
-            "kind": "Kinh dị,Ly kỳ",
-            "premiere": "07/26/2020",
-            "author": "Sohn Won-pyung",
-            "character": "Kim Mu-yeol, Song Ji-hyo, Ye Soo-Jung, Heo Joon-Seok, Lee Hae-woon",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 8.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Vợ của Seo-jin đã qua đời trong một vụ tai nạn giao thông và anh luôn cố gắng tìm ra thủ phạm bằng phương pháp thôi miên. Trong lúc thôi miên, Seo-jin luôn nhìn thấy bóng dáng của người em gái You-jin đã mất tích 25 năm trước. Một ngày nọ, Seo-jin nhận được cuộc gọi thông báo đã tìm thấy em gái mình. You-jin trở về nhà như một người hoàn toàn xa lạ, Seo-jin bằng linh cảm đã cố gắng thuyết phục mọi người đây không phải em gái của mình. Liệu You-jin có phải là em gái thất lạc thật sự của Seo-jin hay không? Liệu cô em gái này có dinh liếu đến tại nạn của vợ anh hay không khi trong những lần thôi miên tiếp theo anh luôn thấy hình ảnh You-jin gần hiện trường tai nạn."
-        },
-        {
-            "id": 17,
-            "name": "SÓI 100% - 100% WOLF",
-            "time": 0,
-            "kind": "Hoạt hình,Gia đình",
-            "premiere": "07/26/2020",
-            "author": "Alexs Stadermann",
-            "character": "Alexia Gates-Foale, Barbara Stephen",
-            "language": "Tiếng Việt,Lồng tiếng Tiếng Việt",
-            "rate": 7.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": true,
-            "content": "Sói 100% kể câu chuyện về Freddy Lupin, người thừa kế của dòng họ người sói quý tộc. Khát khao cháy bỏng được trở thành một người sói, tuy nhiên Freddy bị sốc khi vào sinh nhật lần thứ 13, anh ta bị biến thành một chú chó xù màu hồng hung dữ. Ngay khi Freddy nghĩ rằng cuộc sống không thể tồi tệ hơn, anh ta lại bị ném vào nhà tù chó."
-        },
-        {
-            "id": 18,
-            "name": "TRÙNG QUỶ ĐẠI DƯƠNG - SEA FEVER",
-            "time": 91,
-            "kind": "Kinh dị,Hành động,Viễn tưởng",
-            "premiere": "07/26/2020",
-            "author": "Neasa Hardiman",
-            "character": "Connie Nielsen, Hermione Corfield, Dougray Scott, Ardalan Esmaili, Jack Hickey",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 7.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Trong một chuyến tàu đánh cá đến Tây Ireland, phi hành đoàn bị mắc kẹt lênh đênh giữa biển. Những tưởng không còn gì nguy hiểm hơn, họ lại phải đối mặt với một loài ký sinh trùng đang phát triển ngay chính trong nguồn nước sinh hoạt. Những cơn hoảng loạn, sự nghi ngờ và xung đột bắt đầu xảy ra khiến tình hình càng lúc càng tệ hơn."
-        },
-        {
-            "id": 19,
-            "name": "CƠN MƯA TÌNH ĐẦU - CLASSIC AGAIN",
-            "time": 121,
-            "kind": "Lãng mạn,Tâm lý",
-            "premiere": "07/19/2020",
-            "author": "Thatchaphong Suphasri",
-            "character": "Thitipoom Techaapaikhun Ranchrawee Uakoolwarawat Sutthirak Subvijitra Chonnikan Netjui Samitpong Sakulpongchai",
-            "language": "Phụ đề Tiếng Việt",
-            "rate": 7.5,
-            "playing": false,
-            "digital2D": true,
-            "imax3D": false,
-            "content": "Cơn Mưa Tình Đầu là sự đan xen của hai câu chuyện tình yêu cách nhau 3 thập kỷ. Bota và cô bạn thân Poppy cùng cảm nắng Non – một anh bạn cùng trường đại học. Hiểu tấm lòng của người bạn thân, Bota giấu đi cảm xúc thật của mình để cổ vũ Poppy đến với Non. Một ngày, Bota tình cờ tìm thấy chiếc hộp cũ chứa đầy những lá thư và kỷ niệm về mối tình đầu của mẹ. Những bức thư giữa mẹ cô, Dalah và một chàng trai nhà nghèo tên Kajorn khiến Bota nhận ra cảm xúc hiện tại của mình thật giống với câu chuyện tình dở dang của mẹ. Liệu cô có dũng cảm giữ lấy tình yêu của mình hay mối tình đầu của Bota cũng sẽ kết thúc đầy tiếc nuối?"
-        }
-    ],
-    "schedules": [
-        {
-            "id": 0,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "13:30 7/10/2020"
-        },
-        {
-            "id": 1,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "17:00 7/10/2020"
-        },
-        {
-            "id": 2,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "20:00 7/10/2020"
-        },
-        {
-            "id": 3,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "15:30 7/11/2020"
-        },
-        {
-            "id": 4,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "21:30 7/11/2020"
-        },
-        {
-            "id": 5,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "13:00 7/12/2020"
-        },
-        {
-            "id": 6,
-            "cinemaId": 0,
-            "movieId": 0,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 7,
-            "cinemaId": 0,
-            "movieId": 1,
-            "start": "23:00 7/10/2020"
-        },
-        {
-            "id": 8,
-            "cinemaId": 0,
-            "movieId": 1,
-            "start": "13:00 7/11/2020"
-        },
-        {
-            "id": 9,
-            "cinemaId": 0,
-            "movieId": 1,
-            "start": "17:00 7/11/2020"
-        },
-        {
-            "id": 10,
-            "cinemaId": 0,
-            "movieId": 1,
-            "start": "15:30 7/11/2020"
-        },
-        {
-            "id": 11,
-            "cinemaId": 0,
-            "movieId": 1,
-            "start": "17:45 7/12/2020"
-        },
-        {
-            "id": 12,
-            "cinemaId": 0,
-            "movieId": 1,
-            "start": "20:15 7/12/2020"
-        },
-        {
-            "id": 13,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "13:15 7/10/2020"
-        },
-        {
-            "id": 14,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "16:45 7/10/2020"
-        },
-        {
-            "id": 15,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "15:00 7/11/2020"
-        },
-        {
-            "id": 16,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "20:00 7/11/2020"
-        },
-        {
-            "id": 17,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "23:00 7/11/2020"
-        },
-        {
-            "id": 18,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "13:00 7/12/2020"
-        },
-        {
-            "id": 18,
-            "cinemaId": 0,
-            "movieId": 2,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 19,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "15:30 7/10/2020"
-        },
-        {
-            "id": 20,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "17:00 7/10/2020"
-        },
-        {
-            "id": 21,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "21:00 7/10/2020"
-        },
-        {
-            "id": 22,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "17:00 7/11/2020"
-        },
-        {
-            "id": 23,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "21:00 7/11/2020"
-        },
-        {
-            "id": 24,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 25,
-            "cinemaId": 0,
-            "movieId": 3,
-            "start": "22:30 7/12/2020"
-        },
-        {
-            "id": 26,
-            "cinemaId": 0,
-            "movieId": 4,
-            "start": "20:30 7/10/2020"
-        },
-        {
-            "id": 27,
-            "cinemaId": 0,
-            "movieId": 4,
-            "start": "22:40 7/10/2020"
-        },
-        {
-            "id": 27,
-            "cinemaId": 0,
-            "movieId": 4,
-            "start": "19:30 7/11/2020"
-        },
-        {
-            "id": 28,
-            "cinemaId": 0,
-            "movieId": 4,
-            "start": "21:45 7/11/2020"
-        },
-        {
-            "id": 29,
-            "cinemaId": 0,
-            "movieId": 4,
-            "start": "15:00 7/12/2020"
-        },
-        {
-            "id": 30,
-            "cinemaId": 0,
-            "movieId": 4,
-            "start": "23:00 7/12/2020"
-        },
-        {
-            "id": 31,
-            "cinemaId": 0,
-            "movieId": 5,
-            "start": "15:30 7/10/2020"
-        },
-        {
-            "id": 32,
-            "cinemaId": 0,
-            "movieId": 5,
-            "start": "20:00 7/10/2020"
-        },
-        {
-            "id": 33,
-            "cinemaId": 0,
-            "movieId": 5,
-            "start": "13:45 7/11/2020"
-        },
-        {
-            "id": 34,
-            "cinemaId": 0,
-            "movieId": 5,
-            "start": "19:00 7/11/2020"
-        },
-        {
-            "id": 35,
-            "cinemaId": 0,
-            "movieId": 5,
-            "start": "13:45 7/12/2020"
-        },
-        {
-            "id": 36,
-            "cinemaId": 0,
-            "movieId": 5,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 37,
-            "cinemaId": 0,
-            "movieId": 6,
-            "start": "20:00 7/10/2020"
-        },
-        {
-            "id": 38,
-            "cinemaId": 0,
-            "movieId": 6,
-            "start": "19:00 7/11/2020"
-        },
-        {
-            "id": 39,
-            "cinemaId": 0,
-            "movieId": 6,
-            "start": "22:30 7/11/2020"
-        },
-        {
-            "id": 40,
-            "cinemaId": 0,
-            "movieId": 6,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 41,
-            "cinemaId": 0,
-            "movieId": 6,
-            "start": "22:30 7/12/2020"
-        },
-        {
-            "id": 42,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "13:00 7/10/2020"
-        },
-        {
-            "id": 43,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "20:30 7/10/2020"
-        },
-        {
-            "id": 44,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "15:00 7/11/2020"
-        },
-        {
-            "id": 45,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "21:00 7/11/2020"
-        },
-        {
-            "id": 46,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "22:30 7/11/2020"
-        },
-        {
-            "id": 47,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 48,
-            "cinemaId": 0,
-            "movieId": 7,
-            "start": "22:30 7/12/2020"
-        },
-        {
-            "id": 49,
-            "cinemaId": 0,
-            "movieId": 8,
-            "start": "17:00 7/10/2020"
-        },
-        {
-            "id": 50,
-            "cinemaId": 0,
-            "movieId": 8,
-            "start": "21:00 7/10/2020"
-        },
-        {
-            "id": 51,
-            "cinemaId": 0,
-            "movieId": 8,
-            "start": "19:00 7/11/2020"
-        },
-        {
-            "id": 52,
-            "cinemaId": 0,
-            "movieId": 8,
-            "start": "22:15 7/11/2020"
-        },
-        {
-            "id": 53,
-            "cinemaId": 0,
-            "movieId": 8,
-            "start": "15:30 7/12/2020"
-        },
-        {
-            "id": 54,
-            "cinemaId": 0,
-            "movieId": 8,
-            "start": "21:45 7/12/2020"
-        },
-        {
-            "id": 55,
-            "cinemaId": 0,
-            "movieId": 9,
-            "start": "13:30 7/10/2020"
-        },
-        {
-            "id": 56,
-            "cinemaId": 0,
-            "movieId": 9,
-            "start": "20:00 7/10/2020"
-        },
-        {
-            "id": 57,
-            "cinemaId": 0,
-            "movieId": 9,
-            "start": "17:00 7/11/2020"
-        },
-        {
-            "id": 58,
-            "cinemaId": 0,
-            "movieId": 9,
-            "start": "22:45 7/11/2020"
-        },
-        {
-            "id": 59,
-            "cinemaId": 0,
-            "movieId": 9,
-            "start": "15:30 7/12/2020"
-        },
-        {
-            "id": 60,
-            "cinemaId": 0,
-            "movieId": 9,
-            "start": "20:45 7/12/2020"
-        },
-        {
-            "id": 61,
-            "cinemaId": 0,
-            "movieId": 10,
-            "start": "14:30 7/10/2020"
-        },
-        {
-            "id": 62,
-            "cinemaId": 0,
-            "movieId": 10,
-            "start": "17:45 7/10/2020"
-        },
-        {
-            "id": 63,
-            "cinemaId": 0,
-            "movieId": 10,
-            "start": "13:30 7/11/2020"
-        },
-        {
-            "id": 64,
-            "cinemaId": 0,
-            "movieId": 10,
-            "start": "19:00 7/11/2020"
-        },
-        {
-            "id": 65,
-            "cinemaId": 0,
-            "movieId": 10,
-            "start": "21:00 7/11/2020"
-        },
-        {
-            "id": 66,
-            "cinemaId": 0,
-            "movieId": 10,
-            "start": "21:00 7/12/2020"
-        },
-        {
-            "id": 67,
-            "cinemaId": 0,
-            "movieId": 11,
-            "start": "13:30 7/10/2020"
-        },
-        {
-            "id": 68,
-            "cinemaId": 0,
-            "movieId": 11,
-            "start": "19:00 7/10/2020"
-        },
-        {
-            "id": 69,
-            "cinemaId": 0,
-            "movieId": 11,
-            "start": "15:00 7/11/2020"
-        },
-        {
-            "id": 70,
-            "cinemaId": 0,
-            "movieId": 11,
-            "start": "21:00 7/11/2020"
-        },
-        {
-            "id": 71,
-            "cinemaId": 0,
-            "movieId": 11,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 72,
-            "cinemaId": 0,
-            "movieId": 11,
-            "start": "22:30 7/12/2020"
-        },
-        {
-            "id": 73,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "13:00 7/10/2020"
-        },
-        {
-            "id": 74,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "17:30 7/10/2020"
-        },
-        {
-            "id": 75,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "20:30 7/10/2020"
-        },
-        {
-            "id": 76,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "16:30 7/11/2020"
-        },
-        {
-            "id": 77,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "21:30 7/11/2020"
-        },
-        {
-            "id": 78,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "14:00 7/12/2020"
-        },
-        {
-            "id": 75,
-            "cinemaId": 1,
-            "movieId": 0,
-            "start": "19:00 7/12/2020"
-        },
-        {
-            "id": 76,
-            "cinemaId": 1,
-            "movieId": 1,
-            "start": "22:00 7/10/2020"
-        },
-        {
-            "id": 77,
-            "cinemaId": 1,
-            "movieId": 1,
-            "start": "13:00 7/11/2020"
-        },
-        {
-            "id": 78,
-            "cinemaId": 1,
-            "movieId": 1,
-            "start": "17:00 7/11/2020"
-        },
-        {
-            "id": 79,
-            "cinemaId": 1,
-            "movieId": 1,
-            "start": "15:30 7/11/2020"
-        },
-        {
-            "id": 80,
-            "cinemaId": 1,
-            "movieId": 1,
-            "start": "18:30 7/12/2020"
-        },
-        {
-            "id": 81,
-            "cinemaId": 1,
-            "movieId": 2,
-            "start": "13:15 7/10/2020"
-        },
-        {
-            "id": 82,
-            "cinemaId": 1,
-            "movieId": 2,
-            "start": "16:45 7/10/2020"
-        },
-        {
-            "id": 83,
-            "cinemaId": 1,
-            "movieId": 2,
-            "start": "17:00 7/11/2020"
-        },
-        {
-            "id": 84,
-            "cinemaId": 1,
-            "movieId": 2,
-            "start": "21:00 7/11/2020"
-        },
-        {
-            "id": 85,
-            "cinemaId": 1,
-            "movieId": 2,
-            "start": "15:00 7/12/2020"
-        },
-        {
-            "id": 86,
-            "cinemaId": 1,
-            "movieId": 2,
-            "start": "20:00 7/12/2020"
-        },
-        {
-            "id": 87,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "15:00 7/10/2020"
-        },
-        {
-            "id": 88,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "20:00 7/10/2020"
-        },
-        {
-            "id": 89,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "20:00 7/10/2020"
-        },
-        {
-            "id": 90,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "16:30 7/11/2020"
-        },
-        {
-            "id": 91,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "21:30 7/11/2020"
-        },
-        {
-            "id": 92,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "19:30 7/12/2020"
-        },
-        {
-            "id": 93,
-            "cinemaId": 1,
-            "movieId": 3,
-            "start": "22:45 7/12/2020"
-        },
-        {
-            "id": 94,
-            "cinemaId": 1,
-            "movieId": 4,
-            "start": "19:30 7/10/2020"
-        },
-        {
-            "id": 95,
-            "cinemaId": 1,
-            "movieId": 4,
-            "start": "22:00 7/10/2020"
-        },
-        {
-            "id": 96,
-            "cinemaId": 1,
-            "movieId": 4,
-            "start": "19:15 7/11/2020"
-        },
-        {
-            "id": 97,
-            "cinemaId": 1,
-            "movieId": 4,
-            "start": "21:15 7/11/2020"
-        },
-        {
-            "id": 98,
-            "cinemaId": 1,
-            "movieId": 4,
-            "start": "15:30 7/12/2020"
-        },
-        {
-            "id": 99,
-            "cinemaId": 1,
-            "movieId": 4,
-            "start": "23:00 7/12/2020"
-        },
-        {
-            "id": 100,
-            "cinemaId": 1,
-            "movieId": 5,
-            "start": "15:00 7/10/2020"
-        },
-        {
-            "id": 101,
-            "cinemaId": 1,
-            "movieId": 5,
-            "start": "21:00 7/10/2020"
-        },
-        {
-            "id": 102,
-            "cinemaId": 1,
-            "movieId": 5,
-            "start": "13:30 7/11/2020"
-        },
-        {
-            "id": 103,
-            "cinemaId": 1,
-            "movieId": 5,
-            "start": "20:15 7/11/2020"
-        },
-        {
-            "id": 104,
-            "cinemaId": 1,
-            "movieId": 5,
-            "start": "15:15 7/12/2020"
-        },
-        {
-            "id": 105,
-            "cinemaId": 1,
-            "movieId": 5,
-            "start": "19:30 7/12/2020"
-        },
-        {
-            "id": 106,
-            "cinemaId": 1,
-            "movieId": 6,
-            "start": "19:00 7/10/2020"
-        },
-        {
-            "id": 107,
-            "cinemaId": 1,
-            "movieId": 6,
-            "start": "19:00 7/11/2020"
-        },
-        {
-            "id": 108,
-            "cinemaId": 1,
-            "movieId": 6,
-            "start": "21:30 7/11/2020"
-        },
-        {
-            "id": 109,
-            "cinemaId": 1,
-            "movieId": 6,
-            "start": "19:45 7/12/2020"
-        },
-        {
-            "id": 110,
-            "cinemaId": 1,
-            "movieId": 6,
-            "start": "22:10 7/12/2020"
-        },
-        {
-            "id": 111,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "13:30 7/10/2020"
-        },
-        {
-            "id": 112,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "21:00 7/10/2020"
-        },
-        {
-            "id": 113,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "15:30 7/11/2020"
-        },
-        {
-            "id": 114,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "20:00 7/11/2020"
-        },
-        {
-            "id": 115,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "23:00 7/11/2020"
-        },
-        {
-            "id": 116,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "17:00 7/12/2020"
-        },
-        {
-            "id": 117,
-            "cinemaId": 1,
-            "movieId": 7,
-            "start": "22:30 7/12/2020"
-        },
-        {
-            "id": 118,
-            "cinemaId": 1,
-            "movieId": 8,
-            "start": "17:00 7/10/2020"
-        },
-        {
-            "id": 119,
-            "cinemaId": 1,
-            "movieId": 8,
-            "start": "21:30 7/10/2020"
-        },
-        {
-            "id": 120,
-            "cinemaId": 1,
-            "movieId": 8,
-            "start": "19:45 7/11/2020"
-        },
-        {
-            "id": 121,
-            "cinemaId": 1,
-            "movieId": 8,
-            "start": "22:45 7/11/2020"
-        },
-        {
-            "id": 122,
-            "cinemaId": 1,
-            "movieId": 8,
-            "start": "15:30 7/12/2020"
-        },
-        {
-            "id": 123,
-            "cinemaId": 1,
-            "movieId": 8,
-            "start": "21:15 7/12/2020"
-        },
-        {
-            "id": 124,
-            "cinemaId": 1,
-            "movieId": 9,
-            "start": "13:00 7/10/2020"
-        },
-        {
-            "id": 125,
-            "cinemaId": 1,
-            "movieId": 9,
-            "start": "21:00 7/10/2020"
-        },
-        {
-            "id": 126,
-            "cinemaId": 1,
-            "movieId": 9,
-            "start": "17:30 7/11/2020"
-        },
-        {
-            "id": 127,
-            "cinemaId": 1,
-            "movieId": 9,
-            "start": "22:15 7/11/2020"
-        },
-        {
-            "id": 128,
-            "cinemaId": 1,
-            "movieId": 9,
-            "start": "15:00 7/12/2020"
-        },
-        {
-            "id": 129,
-            "cinemaId": 1,
-            "movieId": 9,
-            "start": "20:00 7/12/2020"
-        },
-        {
-            "id": 130,
-            "cinemaId": 1,
-            "movieId": 10,
-            "start": "14:30 7/10/2020"
-        },
-        {
-            "id": 131,
-            "cinemaId": 1,
-            "movieId": 10,
-            "start": "17:15 7/10/2020"
-        },
-        {
-            "id": 132,
-            "cinemaId": 1,
-            "movieId": 10,
-            "start": "13:45 7/11/2020"
-        },
-        {
-            "id": 133,
-            "cinemaId": 1,
-            "movieId": 10,
-            "start": "19:00 7/11/2020"
-        },
-        {
-            "id": 134,
-            "cinemaId": 1,
-            "movieId": 10,
-            "start": "21:15 7/11/2020"
-        },
-        {
-            "id": 135,
-            "cinemaId": 1,
-            "movieId": 10,
-            "start": "18:00 7/12/2020"
-        },
-        {
-            "id": 136,
-            "cinemaId": 1,
-            "movieId": 11,
-            "start": "14:30 7/10/2020"
-        },
-        {
-            "id": 137,
-            "cinemaId": 1,
-            "movieId": 11,
-            "start": "18:00 7/10/2020"
-        },
-        {
-            "id": 138,
-            "cinemaId": 1,
-            "movieId": 11,
-            "start": "20:00 7/11/2020"
-        },
-        {
-            "id": 139,
-            "cinemaId": 1,
-            "movieId": 11,
-            "start": "23:00 7/11/2020"
-        },
-        {
-            "id": 140,
-            "cinemaId": 1,
-            "movieId": 11,
-            "start": "19:00 7/12/2020"
-        }
-    ]
+  "cinemas": [
+    {
+      "id": 0,
+      "name": "Starlight Đà Nẵng",
+      "location": "Tầng 4 - Tòa Nhà Nguyễn Kim, 46 Điện Biên Phủ, Quận Thanh Khê, Tp. Đà Nẵng",
+      "introduce": "Rạp Starlight Đà Nẵng nằm ở TT Nguyễn Kim - Điện Biên Phủ, Đà Nẵng, được xây dựng với tiêu chuẩn rạp Hollywood, chuẩn âm thanh Dolby 7.1, màn hình lớn, sắc nét. Starlight Đà Nẵng là 1 trong các rạp chiếu phim rất nhộn nhịp ở thành phố đáng sống nhất Việt Nam hiện nay. Thuộc chuỗi giải trí Starlight, khán giả đến đây sẽ có nhiều lựa chọn giải trí trước và sau khi chiếu phim. Cùng hệ thống trà sữa tích hợp, Starlight Đà Nẵng quả là điểm đến giải trí số 1 cho khán giả trẻ."
+    },
+    {
+      "id": 1,
+      "name": "CGV Vĩnh Trung Plaza",
+      "location": "255-257 đường Hùng Vương, Q. Thanh Khê, Tp. Đà Nẵng",
+      "introduce": "Xem Lịch chiếu và Mua vé CGV Vĩnh Trung Plaza- rạp CGV toàn quốc dễ dàng - nhanh chóng tại Moveek. Rạp CGV Vĩnh Trung Plaza nằm ở đường Hùng Vương - Thanh Khê, được xây dựng với tiêu chuẩn rạp Hollywood, chuẩn âm thanh Dolby 7.1, màn hình lớn, sắc nét. CGV Vĩnh Trung Plaza với 6 phòng chiếu là 1 trong các rạp chiếu phim đầu tiên ở Đà Nẵng và là rạp chiếu đầu tiên của CGV cinema tại đây. Gặp nhiều cạnh tranh, CGV Vĩnh Trung Plaza luôn cam kết chất lượng giải trí cao nhất với giá vé hấp dẫn nhất."
+    },
+    {
+      "id": 2,
+      "name": "Lotte Đà Nẵng",
+      "location": "Tầng 5 Lotte Mart Đà Nẵng, P. Hòa Cường Bắc, Q. Hải Châu, Tp. Đà Nẵng",
+      "introduce": "Lịch chiếu phim Lotte Đà Nẵng- rạp Lotte toàn quốc đầy đủ & tiện lợi nhất. Rạp Lotte Đà Nẵng nằm ở tầng 5 Lotte Mart Đà Nẵng, với 4 phòng chiếu phim (479 chỗ ngồi) hiện đại, chất lượng âm thanh đỉnh cao. Lotte Đà Nẵng luôn không ngừng nâng cấp để mang đến những giây phú giải trí thoải mái nhất."
+    },
+    {
+      "id": 3,
+      "name": "Galaxy Đà Nẵng",
+      "location": "Tầng 3 Coop Mart, 478 Điện Biên Phủ, Quận Thanh Khê, Đà Nẵng",
+      "introduce": "Xem Lịch chiếu và Mua vé Galaxy Đà Nẵng- rạp Galaxy toàn quốc dễ dàng - nhanh chóng tại Moveek. Rạp Galaxy Đà Nẵng nằm ở CoopMart Đà Nẵng, được xây dựng với tiêu chuẩn Hollywood, có 7 phòng chiếu, chuẩn âm thanh Dolby 7.1. Galaxy Đà Nẵng dù ra mắt muộn hơn so với các rạp chiếu phim khác nhưng luôn cam kết chất lượng dịch vụ tốt nhất và giá cả cạnh tranh nhất."
+    }
+  ],
+  "movies": [
+    {
+      "id": 0,
+      "name": "ẨN DANH - SEARCH OUT",
+      "time": 93,
+      "kind": "Hành động, hồi hộp",
+      "premiere": "05/29/2020",
+      "author": "Kwak Jung",
+      "character": "Lee Si-eon, Kim Sung-chul, Heo Ga-yoon, Ju Si-hyun, Kim Seo-yeon",
+      "language": "phụ đề tiếng Việt",
+      "rate": 8,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Chàng trai đang học thi cảnh sát Seong-min và chàng trai đang tìm việc làm Jun-hyeok cảm thấy nghi ngờ về vụ tự tử của một cô gái cùng sống trong khu nhà trọ. Cùng với sự trợ giúp của hacker Noo-rie, cả hai lùng theo tung tích trên mạng xã hội của cô gái xấu số. Cuộc điều tra dẫn đến những kết quả không thể kiểm soát được, khiến cho Seong-min Jun-hyeok và Noo-rie trở thành mục tiêu của tội phạm mạng xã hội."
+    },
+    {
+      "id": 1,
+      "name": "QUỶ LÙN TINH NGHỊCH: CHUYẾN LƯU DIỄN THẾ GIỚI - TROLLS WORLD TOUR",
+      "time": 97,
+      "kind": "Hoạt hình, gia đình",
+      "premiere": "05/29/2020",
+      "author": " Walt Dohrn",
+      "character": "Justin Timberlake, Anna Kendrick, Sam Rockwell, Chance The Rapper, Anthony Ramos",
+      "language": "Phụ đề Tiếng Việt, Lồng tiếng Tiếng Việt",
+      "rate": 8,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": true,
+      "content": "Quay trở lại với thế giới quỷ lùn lần này là tiết lộ về 6 tộc người lùn đại diện cho 6 thể loại âm nhạc khác nhau. Poppy và nhóm bạn sẽ phải đối mặt với “kẻ ác” hoàn toàn mới lạ, đó là Barb - nữ hoàng nhạc rock đang âm mưu tiêu diệt các thể loại nhạc còn lại để thống trị thế giới."
+    },
+    {
+      "id": 2,
+      "name": "ÁC QUỶ RỪNG SÂU - BABA YAGA",
+      "time": 97,
+      "kind": " Kinh dị,Hành động",
+      "premiere": "05/22/2020",
+      "author": "Svyatoslav Podgaevsky",
+      "character": "Oleg Chugunov, Glasha Golubeva, Artem Zhigulin, Igor Khripunov, Svetlana Ustinova",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 7.5,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Ác Quỷ Rừng Sâu kể về một cặp vợ chồng trẻ đang tìm kiếm bảo mẫu để chăm sóc đứa con gái mới chào đời. Thế nhưng người được thuê về lại khiến cả đứa bé ấy và cậu con trai lớn Egor kinh sợ. Một ngày, Egor phát hiện người bảo mẫu và em gái mình biến mất một cách đầy bí ẩn"
+    },
+    {
+      "id": 3,
+      "name": "KẺ ĐÀO TẨU GIẤC MƠ - COMA",
+      "time": 120,
+      "kind": "Viễn tưởng,Phiêu lưu",
+      "premiere": "05/29/2020",
+      "author": "Nikita Argunov",
+      "character": "Rinal Mukhametov, Anton Pampushnyy, Lyubov Aksyonova, Miloš Biković, Konstantin Lavronenko",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 7.5,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Một kiến trúc sư trẻ tài năng tỉnh dậy sau một tai nạn kinh hoàng và phát hiện rằng anh ta đang lạc trong một thế giới khác kỳ lạ và hỗn loạn. Thế giới đó được gọi là COMA và ở đó những toà nhà, những dòng sông và thành phố đều có thể tồn tại trong cùng một không gian của một căn phòng. Những định luật vật lý anh được học không còn đúng ở thế giới này và bên cạnh việc thích nghi, anh ta còn phải chiến đấu để bảo vệ mạng sống của mình cũng như tìm cách để thoát ra, trở về với thế giới thực..."
+    },
+    {
+      "id": 4,
+      "name": "TRẬN CHIẾN MIDWAY",
+      "time": 137,
+      "kind": "Hành động",
+      "premiere": "05/29/2020",
+      "author": "Roland Emmerich",
+      "character": " Ed Skrein, Patrick Wilson, Luke Kleintank, Luke Evans, Woody Harrelson",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8.5,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Trận Chiến Midway lấy bối cảnh trong Thế Chiến thứ 2 sau sự kiện Trân Châu Cảng nổi tiếng, tái hiện trận đánh lịch sử Midway - điểm nóng quan trọng tại Thái Bình Dương"
+    },
+    {
+      "id": 5,
+      "name": "SAMSAM - SAMSAM SIÊU NHÂN TẬP SỰ",
+      "time": 137,
+      "kind": "Hoạt hình,Gia đình",
+      "premiere": "05/06/2020",
+      "author": "Tanguy de Kermel",
+      "character": "Isaac Lobé-Lebel, Lior Chabbat, Jeremy Prevost, Sébastien Desjours, Léopold Vom Dorp",
+      "language": "Lồng tiếng Tiếng Việt",
+      "rate": 8,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": true,
+      "content": "Nhóc tì siêu quậy Samsam có tất cả mọi thứ mà bao đứa trẻ trên hành tinh Sam đều mơ ước: bố mẹ là hai siêu anh hùng nổi tiếng, học tập ở một ngôi trường danh giá chuyên đào tạo các thế hệ siêu nhân tương lai, thậm chí Samsam còn có hẳn một đĩa bay riêng để vi vu khắp nơi khắp chốn. Thế nhưng, cậu bé lại không có chút siêu năng lực nào, hoàn toàn khác biệt với tất cả các thành viên trong gia đình cũng như bạn bè đồng trang lứa. Bố mẹ lo lắng, bè bạn trêu ghẹo, Samsam bắt đầu hành trình tới hành tinh Marth bí ẩn cùng người bạn mới Mega, quyết tâm tìm kiếm sức mạnh ẩn tiềm của bản thân mình."
+    },
+    {
+      "id": 6,
+      "name": "CĂN PHÒNG ĐẪM MÁU - LINGERING",
+      "time": 110,
+      "kind": "Kinh dị",
+      "premiere": "05/06/2020",
+      "author": "Yoon Eun-gyeong",
+      "character": "Lee Se-young, Park Ji-young, Park Hyo-ju",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8.5,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Những câu chuyện kỳ lạ xung quanh khách sạn đẫm máu khiến người ta hóa điên. Tại khách sạn này, có 3 điều tuyệt đối không được làm: không được ngước nhìn lên, không được đi một mình và không được bước vào phòng 405."
+    },
+    {
+      "id": 7,
+      "name": "KẺ TRỰC ĐÊM - THE NIGHT CLERK",
+      "time": 100,
+      "kind": "Kinh dị",
+      "premiere": "05/06/2020",
+      "author": "Michael Cristofer",
+      "character": "Tye Sheridan, Ana de Armas, Helen Hunt, John Leguizamo, Johnathon Schaech",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 7.5,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Bart Bromley là một tiếp tân khách sạn trực ca đêm. Anh trẻ, thông minh nhưng mắc chứng rối loạn lo âu xã hội – rất khó giao tiếp với người khác. Biết chứng bệnh của mình, anh học cử chỉ, hành động và lối ăn nói của người khác ...thông qua các camera an ninh của khách sạn."
+    },
+    {
+      "id": 8,
+      "name": "TÔI LÀ NÃO CÁ VÀNG",
+      "time": 97,
+      "kind": "Lãng mạn,Tâm lý",
+      "premiere": "05/06/2020",
+      "author": "Lê Hướng Nam",
+      "character": "Khánh Hiền, Thu Trang, La Thành, Tuấn Trần, Kiều Minh Tuấn",
+      "language": "Tiếng Việt,Phụ đề Tiếng Anh",
+      "rate": 7,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Tôi Là Não Cá Vàng xoay quanh cuộc sống của một nhà thiết kế thời trang xinh đẹp nhưng mắc căn bệnh Alzheimer. Với cô, mỗi ngày đều là một ngày mới vì những ký ức ngày cũ dường như tan biến cả."
+    },
+    {
+      "id": 9,
+      "name": "GIA TÀI TỘI LỖI - INHERITANCE",
+      "time": 119,
+      "kind": "Kinh dị,Ly kỳ",
+      "premiere": "06/12/2020",
+      "author": "Vaughn Stein",
+      "character": "Lily Collins, Simon Pegg, Connie Nielsen, Chace Crawford, Patrick Warburton",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Lauren Monroe, một luật sư trẻ đầy triển vọng, là con cả của một gia đình giới thượng lưu, bề thế, tưởng như hoàn hảo, tại New York. Khi cha cô đột ngột qua đời, thay vì được thừa hưởng một gia tài kếch xù, cô chị cả Lauren chỉ được trao một chiếc chìa khóa riêng dẫn đến một căn hầm bỏ hoang trong khuôn viên của gia đình. Ngay tại nơi này, cô phát hiện món thừa kế phần mình lại là một người đàn ông bí ẩn bị giam cầm trong nhiều năm ngay dưới căn hầm tối tăm suốt 30 năm qua mà không một ai hay biết."
+    },
+    {
+      "id": 10,
+      "name": "GIẢI CỨU CÂY ƯỚC NGUYỆN - THE WISHMAS TREE",
+      "time": 87,
+      "kind": "Phiêu lưu,Hoạt hình",
+      "premiere": "06/12/2020",
+      "author": "Ricard Cussó",
+      "character": "Miranda Tapsell, Ross Noble, Kate Murphy, Ricard Cussó",
+      "language": "Phụ đề Tiếng Việt,Lồng tiếng Tiếng Việt",
+      "rate": 7,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": true,
+      "content": "Kerry, một cô nàng thú túi nhận được một điều ước và cô đã ước rằng cô có thể có một cây Ước Nguyện màu trắng. Thế nhưng, cách mà cô ước lại hoá sai và tệ hại hơn, nó làm đóng băng toàn bộ thành phố Sanctuary City của cô, còn đe dọa cuộc sống của tất cả những người sống ở đó."
+    },
+    {
+      "id": 11,
+      "name": "BẢN GIAO HƯỞNG MÁU - SONATA",
+      "time": 97,
+      "kind": "Ly kỳ,Hồi hộp",
+      "premiere": "06/12/2020",
+      "author": "Mason Cade Packer",
+      "character": "Mark Tilley, Larnell Shadd",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 7.5,
+      "playing": true,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Để làm sáng tỏ quá khứ của người cha quá cố, nữ nghệ sĩ violon trẻ tuổi đã vô tình kích hoạt những thế lực đen tối vượt qua trí tưởng tượng bình thường của con người."
+    },
+    {
+      "id": 12,
+      "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
+      "time": 0,
+      "kind": "Hành động,Phiêu lưu",
+      "premiere": "10/06/2020",
+      "author": "Cate Shortland",
+      "character": "Scarlett Johansson, Florence Pugh, David Harbour, O.T. Fagbenle, Rachel Weisz",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
+    },
+    {
+      "id": 12,
+      "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
+      "time": 0,
+      "kind": "Hành động,Phiêu lưu",
+      "premiere": "10/06/2020",
+      "author": "Cate Shortland",
+      "character": "Scarlett Johansson, Florence Pugh, David Harbour, O.T. Fagbenle, Rachel Weisz",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
+    },
+    {
+      "id": 13,
+      "name": "CHỊ MƯỜI BA 2 - 3 NGÀY SINH TỬ",
+      "time": 0,
+      "kind": "Hài hước,Hành động,Tâm lý",
+      "premiere": "12/18/2020",
+      "author": "Võ Thanh Hòa",
+      "character": "Thu Trang, Tiến Luật, Kiều Minh Tuấn",
+      "language": "Tiếng Việt,Phụ đề Tiếng Anh",
+      "rate": 8,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Kiếp giang hồ, vào dễ khó ra. Những tưởng sau khi lật đổ ông trùm Hắc Hổ, đồng thời đập tan âm mưu thâm độc của Anh Hai, Chị Mười Ba cùng An Cư Nghĩa Đoàn đã có thể yên ổn làm ăn. Thế nhưng, cuộc đời mà, cái quái gì cũng đều xảy ra được. Những kẻ thù mới lại tiếp tục xuất hiện, khiến cho cuộc sống của anh em An Cư Nghĩa Đoàn rúng động thêm lần nữa. Chị Mười Ba đã nhập cuộc trở lại và… bầm dập hơn xưa."
+    },
+    {
+      "id": 14,
+      "name": "VÙNG ĐẤT CÂM LẶNG 2 - A QUIET PLACE PART II",
+      "time": 0,
+      "kind": "Hài hước,Hành động,Tâm lý",
+      "premiere": "09/04/2020",
+      "author": "John Krasinski",
+      "character": "Emily Blunt, Cillian Murphy, Millicent Simmonds, Noah Jupe, Djimon Hounsou",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Gia đình Abbot gồm người mẹ Evelyn cùng ba con chạy trốn đến một thành phố tưởng như an toàn. Tuy nhiên, cả gia đình không ngờ rằng ở thế giới bên ngoài cũng đã bị những sinh vật ngoài hành tinh thâu tóm.Vùng đất câm lặng lúc này đã trở thành “thế giới câm lặng” khi những người sống sót tiếp tục phải lẩn trốn, không được tạo ra tiếng động mỗi khi di chuyển hay giao tiếp với nhau."
+    },
+    {
+      "id": 15,
+      "name": "NỮ THẦN CHIẾN BINH 1984 - WONDER WOMAN 1984",
+      "time": 0,
+      "kind": "Hành động,Phiêu lưu",
+      "premiere": "08/14/2020",
+      "author": "Patty Jenkins",
+      "character": "Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal, Connie Nielsen",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Wonder Woman 1984 sẽ lấy bối cảnh năm 1984, khi Mỹ và Liên Xô đối đầu trong thời kỳ Chiến tranh Lạnh. Đặc biệt cũng hé lộ sự trở lại bí ẩn của Steve Trevor – người đã hy sinh anh dũng nhằm ngăn chặn kế hoạch phát tán chất độc của Đức quốc xã."
+    },
+    {
+      "id": 16,
+      "name": "KẺ XÂM NHẬP - INTRUDER",
+      "time": 0,
+      "kind": "Kinh dị,Ly kỳ",
+      "premiere": "07/26/2020",
+      "author": "Sohn Won-pyung",
+      "character": "Kim Mu-yeol, Song Ji-hyo, Ye Soo-Jung, Heo Joon-Seok, Lee Hae-woon",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 8.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Vợ của Seo-jin đã qua đời trong một vụ tai nạn giao thông và anh luôn cố gắng tìm ra thủ phạm bằng phương pháp thôi miên. Trong lúc thôi miên, Seo-jin luôn nhìn thấy bóng dáng của người em gái You-jin đã mất tích 25 năm trước. Một ngày nọ, Seo-jin nhận được cuộc gọi thông báo đã tìm thấy em gái mình. You-jin trở về nhà như một người hoàn toàn xa lạ, Seo-jin bằng linh cảm đã cố gắng thuyết phục mọi người đây không phải em gái của mình. Liệu You-jin có phải là em gái thất lạc thật sự của Seo-jin hay không? Liệu cô em gái này có dinh liếu đến tại nạn của vợ anh hay không khi trong những lần thôi miên tiếp theo anh luôn thấy hình ảnh You-jin gần hiện trường tai nạn."
+    },
+    {
+      "id": 17,
+      "name": "SÓI 100% - 100% WOLF",
+      "time": 0,
+      "kind": "Hoạt hình,Gia đình",
+      "premiere": "07/26/2020",
+      "author": "Alexs Stadermann",
+      "character": "Alexia Gates-Foale, Barbara Stephen",
+      "language": "Tiếng Việt,Lồng tiếng Tiếng Việt",
+      "rate": 7.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": true,
+      "content": "Sói 100% kể câu chuyện về Freddy Lupin, người thừa kế của dòng họ người sói quý tộc. Khát khao cháy bỏng được trở thành một người sói, tuy nhiên Freddy bị sốc khi vào sinh nhật lần thứ 13, anh ta bị biến thành một chú chó xù màu hồng hung dữ. Ngay khi Freddy nghĩ rằng cuộc sống không thể tồi tệ hơn, anh ta lại bị ném vào nhà tù chó."
+    },
+    {
+      "id": 18,
+      "name": "TRÙNG QUỶ ĐẠI DƯƠNG - SEA FEVER",
+      "time": 91,
+      "kind": "Kinh dị,Hành động,Viễn tưởng",
+      "premiere": "07/26/2020",
+      "author": "Neasa Hardiman",
+      "character": "Connie Nielsen, Hermione Corfield, Dougray Scott, Ardalan Esmaili, Jack Hickey",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 7.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Trong một chuyến tàu đánh cá đến Tây Ireland, phi hành đoàn bị mắc kẹt lênh đênh giữa biển. Những tưởng không còn gì nguy hiểm hơn, họ lại phải đối mặt với một loài ký sinh trùng đang phát triển ngay chính trong nguồn nước sinh hoạt. Những cơn hoảng loạn, sự nghi ngờ và xung đột bắt đầu xảy ra khiến tình hình càng lúc càng tệ hơn."
+    },
+    {
+      "id": 19,
+      "name": "CƠN MƯA TÌNH ĐẦU - CLASSIC AGAIN",
+      "time": 121,
+      "kind": "Lãng mạn,Tâm lý",
+      "premiere": "07/19/2020",
+      "author": "Thatchaphong Suphasri",
+      "character": "Thitipoom Techaapaikhun Ranchrawee Uakoolwarawat Sutthirak Subvijitra Chonnikan Netjui Samitpong Sakulpongchai",
+      "language": "Phụ đề Tiếng Việt",
+      "rate": 7.5,
+      "playing": false,
+      "digital2D": true,
+      "imax3D": false,
+      "content": "Cơn Mưa Tình Đầu là sự đan xen của hai câu chuyện tình yêu cách nhau 3 thập kỷ. Bota và cô bạn thân Poppy cùng cảm nắng Non – một anh bạn cùng trường đại học. Hiểu tấm lòng của người bạn thân, Bota giấu đi cảm xúc thật của mình để cổ vũ Poppy đến với Non. Một ngày, Bota tình cờ tìm thấy chiếc hộp cũ chứa đầy những lá thư và kỷ niệm về mối tình đầu của mẹ. Những bức thư giữa mẹ cô, Dalah và một chàng trai nhà nghèo tên Kajorn khiến Bota nhận ra cảm xúc hiện tại của mình thật giống với câu chuyện tình dở dang của mẹ. Liệu cô có dũng cảm giữ lấy tình yêu của mình hay mối tình đầu của Bota cũng sẽ kết thúc đầy tiếc nuối?"
+    }
+  ],
+  "schedules": [
+    {
+      "id": 0,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "13:30 7/10/2020"
+    },
+    {
+      "id": 1,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "17:00 7/10/2020"
+    },
+    {
+      "id": 2,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "20:00 7/10/2020"
+    },
+    {
+      "id": 3,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "15:30 7/11/2020"
+    },
+    {
+      "id": 4,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "21:30 7/11/2020"
+    },
+    {
+      "id": 5,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "13:00 7/12/2020"
+    },
+    {
+      "id": 6,
+      "cinemaId": 0,
+      "movieId": 0,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 7,
+      "cinemaId": 0,
+      "movieId": 1,
+      "start": "23:00 7/10/2020"
+    },
+    {
+      "id": 8,
+      "cinemaId": 0,
+      "movieId": 1,
+      "start": "13:00 7/11/2020"
+    },
+    {
+      "id": 9,
+      "cinemaId": 0,
+      "movieId": 1,
+      "start": "17:00 7/11/2020"
+    },
+    {
+      "id": 10,
+      "cinemaId": 0,
+      "movieId": 1,
+      "start": "15:30 7/11/2020"
+    },
+    {
+      "id": 11,
+      "cinemaId": 0,
+      "movieId": 1,
+      "start": "17:45 7/12/2020"
+    },
+    {
+      "id": 12,
+      "cinemaId": 0,
+      "movieId": 1,
+      "start": "20:15 7/12/2020"
+    },
+    {
+      "id": 13,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "13:15 7/10/2020"
+    },
+    {
+      "id": 14,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "16:45 7/10/2020"
+    },
+    {
+      "id": 15,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "15:00 7/11/2020"
+    },
+    {
+      "id": 16,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "20:00 7/11/2020"
+    },
+    {
+      "id": 17,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "23:00 7/11/2020"
+    },
+    {
+      "id": 18,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "13:00 7/12/2020"
+    },
+    {
+      "id": 18,
+      "cinemaId": 0,
+      "movieId": 2,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 19,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "15:30 7/10/2020"
+    },
+    {
+      "id": 20,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "17:00 7/10/2020"
+    },
+    {
+      "id": 21,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "21:00 7/10/2020"
+    },
+    {
+      "id": 22,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "17:00 7/11/2020"
+    },
+    {
+      "id": 23,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "21:00 7/11/2020"
+    },
+    {
+      "id": 24,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 25,
+      "cinemaId": 0,
+      "movieId": 3,
+      "start": "22:30 7/12/2020"
+    },
+    {
+      "id": 26,
+      "cinemaId": 0,
+      "movieId": 4,
+      "start": "20:30 7/10/2020"
+    },
+    {
+      "id": 27,
+      "cinemaId": 0,
+      "movieId": 4,
+      "start": "22:40 7/10/2020"
+    },
+    {
+      "id": 27,
+      "cinemaId": 0,
+      "movieId": 4,
+      "start": "19:30 7/11/2020"
+    },
+    {
+      "id": 28,
+      "cinemaId": 0,
+      "movieId": 4,
+      "start": "21:45 7/11/2020"
+    },
+    {
+      "id": 29,
+      "cinemaId": 0,
+      "movieId": 4,
+      "start": "15:00 7/12/2020"
+    },
+    {
+      "id": 30,
+      "cinemaId": 0,
+      "movieId": 4,
+      "start": "23:00 7/12/2020"
+    },
+    {
+      "id": 31,
+      "cinemaId": 0,
+      "movieId": 5,
+      "start": "15:30 7/10/2020"
+    },
+    {
+      "id": 32,
+      "cinemaId": 0,
+      "movieId": 5,
+      "start": "20:00 7/10/2020"
+    },
+    {
+      "id": 33,
+      "cinemaId": 0,
+      "movieId": 5,
+      "start": "13:45 7/11/2020"
+    },
+    {
+      "id": 34,
+      "cinemaId": 0,
+      "movieId": 5,
+      "start": "19:00 7/11/2020"
+    },
+    {
+      "id": 35,
+      "cinemaId": 0,
+      "movieId": 5,
+      "start": "13:45 7/12/2020"
+    },
+    {
+      "id": 36,
+      "cinemaId": 0,
+      "movieId": 5,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 37,
+      "cinemaId": 0,
+      "movieId": 6,
+      "start": "20:00 7/10/2020"
+    },
+    {
+      "id": 38,
+      "cinemaId": 0,
+      "movieId": 6,
+      "start": "19:00 7/11/2020"
+    },
+    {
+      "id": 39,
+      "cinemaId": 0,
+      "movieId": 6,
+      "start": "22:30 7/11/2020"
+    },
+    {
+      "id": 40,
+      "cinemaId": 0,
+      "movieId": 6,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 41,
+      "cinemaId": 0,
+      "movieId": 6,
+      "start": "22:30 7/12/2020"
+    },
+    {
+      "id": 42,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "13:00 7/10/2020"
+    },
+    {
+      "id": 43,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "20:30 7/10/2020"
+    },
+    {
+      "id": 44,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "15:00 7/11/2020"
+    },
+    {
+      "id": 45,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "21:00 7/11/2020"
+    },
+    {
+      "id": 46,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "22:30 7/11/2020"
+    },
+    {
+      "id": 47,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 48,
+      "cinemaId": 0,
+      "movieId": 7,
+      "start": "22:30 7/12/2020"
+    },
+    {
+      "id": 49,
+      "cinemaId": 0,
+      "movieId": 8,
+      "start": "17:00 7/10/2020"
+    },
+    {
+      "id": 50,
+      "cinemaId": 0,
+      "movieId": 8,
+      "start": "21:00 7/10/2020"
+    },
+    {
+      "id": 51,
+      "cinemaId": 0,
+      "movieId": 8,
+      "start": "19:00 7/11/2020"
+    },
+    {
+      "id": 52,
+      "cinemaId": 0,
+      "movieId": 8,
+      "start": "22:15 7/11/2020"
+    },
+    {
+      "id": 53,
+      "cinemaId": 0,
+      "movieId": 8,
+      "start": "15:30 7/12/2020"
+    },
+    {
+      "id": 54,
+      "cinemaId": 0,
+      "movieId": 8,
+      "start": "21:45 7/12/2020"
+    },
+    {
+      "id": 55,
+      "cinemaId": 0,
+      "movieId": 9,
+      "start": "13:30 7/10/2020"
+    },
+    {
+      "id": 56,
+      "cinemaId": 0,
+      "movieId": 9,
+      "start": "20:00 7/10/2020"
+    },
+    {
+      "id": 57,
+      "cinemaId": 0,
+      "movieId": 9,
+      "start": "17:00 7/11/2020"
+    },
+    {
+      "id": 58,
+      "cinemaId": 0,
+      "movieId": 9,
+      "start": "22:45 7/11/2020"
+    },
+    {
+      "id": 59,
+      "cinemaId": 0,
+      "movieId": 9,
+      "start": "15:30 7/12/2020"
+    },
+    {
+      "id": 60,
+      "cinemaId": 0,
+      "movieId": 9,
+      "start": "20:45 7/12/2020"
+    },
+    {
+      "id": 61,
+      "cinemaId": 0,
+      "movieId": 10,
+      "start": "14:30 7/10/2020"
+    },
+    {
+      "id": 62,
+      "cinemaId": 0,
+      "movieId": 10,
+      "start": "17:45 7/10/2020"
+    },
+    {
+      "id": 63,
+      "cinemaId": 0,
+      "movieId": 10,
+      "start": "13:30 7/11/2020"
+    },
+    {
+      "id": 64,
+      "cinemaId": 0,
+      "movieId": 10,
+      "start": "19:00 7/11/2020"
+    },
+    {
+      "id": 65,
+      "cinemaId": 0,
+      "movieId": 10,
+      "start": "21:00 7/11/2020"
+    },
+    {
+      "id": 66,
+      "cinemaId": 0,
+      "movieId": 10,
+      "start": "21:00 7/12/2020"
+    },
+    {
+      "id": 67,
+      "cinemaId": 0,
+      "movieId": 11,
+      "start": "13:30 7/10/2020"
+    },
+    {
+      "id": 68,
+      "cinemaId": 0,
+      "movieId": 11,
+      "start": "19:00 7/10/2020"
+    },
+    {
+      "id": 69,
+      "cinemaId": 0,
+      "movieId": 11,
+      "start": "15:00 7/11/2020"
+    },
+    {
+      "id": 70,
+      "cinemaId": 0,
+      "movieId": 11,
+      "start": "21:00 7/11/2020"
+    },
+    {
+      "id": 71,
+      "cinemaId": 0,
+      "movieId": 11,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 72,
+      "cinemaId": 0,
+      "movieId": 11,
+      "start": "22:30 7/12/2020"
+    },
+    {
+      "id": 73,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "13:00 7/10/2020"
+    },
+    {
+      "id": 74,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "17:30 7/10/2020"
+    },
+    {
+      "id": 75,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "20:30 7/10/2020"
+    },
+    {
+      "id": 76,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "16:30 7/11/2020"
+    },
+    {
+      "id": 77,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "21:30 7/11/2020"
+    },
+    {
+      "id": 78,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "14:00 7/12/2020"
+    },
+    {
+      "id": 75,
+      "cinemaId": 1,
+      "movieId": 0,
+      "start": "19:00 7/12/2020"
+    },
+    {
+      "id": 76,
+      "cinemaId": 1,
+      "movieId": 1,
+      "start": "22:00 7/10/2020"
+    },
+    {
+      "id": 77,
+      "cinemaId": 1,
+      "movieId": 1,
+      "start": "13:00 7/11/2020"
+    },
+    {
+      "id": 78,
+      "cinemaId": 1,
+      "movieId": 1,
+      "start": "17:00 7/11/2020"
+    },
+    {
+      "id": 79,
+      "cinemaId": 1,
+      "movieId": 1,
+      "start": "15:30 7/11/2020"
+    },
+    {
+      "id": 80,
+      "cinemaId": 1,
+      "movieId": 1,
+      "start": "18:30 7/12/2020"
+    },
+    {
+      "id": 81,
+      "cinemaId": 1,
+      "movieId": 2,
+      "start": "13:15 7/10/2020"
+    },
+    {
+      "id": 82,
+      "cinemaId": 1,
+      "movieId": 2,
+      "start": "16:45 7/10/2020"
+    },
+    {
+      "id": 83,
+      "cinemaId": 1,
+      "movieId": 2,
+      "start": "17:00 7/11/2020"
+    },
+    {
+      "id": 84,
+      "cinemaId": 1,
+      "movieId": 2,
+      "start": "21:00 7/11/2020"
+    },
+    {
+      "id": 85,
+      "cinemaId": 1,
+      "movieId": 2,
+      "start": "15:00 7/12/2020"
+    },
+    {
+      "id": 86,
+      "cinemaId": 1,
+      "movieId": 2,
+      "start": "20:00 7/12/2020"
+    },
+    {
+      "id": 87,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "15:00 7/10/2020"
+    },
+    {
+      "id": 88,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "20:00 7/10/2020"
+    },
+    {
+      "id": 89,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "20:00 7/10/2020"
+    },
+    {
+      "id": 90,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "16:30 7/11/2020"
+    },
+    {
+      "id": 91,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "21:30 7/11/2020"
+    },
+    {
+      "id": 92,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "19:30 7/12/2020"
+    },
+    {
+      "id": 93,
+      "cinemaId": 1,
+      "movieId": 3,
+      "start": "22:45 7/12/2020"
+    },
+    {
+      "id": 94,
+      "cinemaId": 1,
+      "movieId": 4,
+      "start": "19:30 7/10/2020"
+    },
+    {
+      "id": 95,
+      "cinemaId": 1,
+      "movieId": 4,
+      "start": "22:00 7/10/2020"
+    },
+    {
+      "id": 96,
+      "cinemaId": 1,
+      "movieId": 4,
+      "start": "19:15 7/11/2020"
+    },
+    {
+      "id": 97,
+      "cinemaId": 1,
+      "movieId": 4,
+      "start": "21:15 7/11/2020"
+    },
+    {
+      "id": 98,
+      "cinemaId": 1,
+      "movieId": 4,
+      "start": "15:30 7/12/2020"
+    },
+    {
+      "id": 99,
+      "cinemaId": 1,
+      "movieId": 4,
+      "start": "23:00 7/12/2020"
+    },
+    {
+      "id": 100,
+      "cinemaId": 1,
+      "movieId": 5,
+      "start": "15:00 7/10/2020"
+    },
+    {
+      "id": 101,
+      "cinemaId": 1,
+      "movieId": 5,
+      "start": "21:00 7/10/2020"
+    },
+    {
+      "id": 102,
+      "cinemaId": 1,
+      "movieId": 5,
+      "start": "13:30 7/11/2020"
+    },
+    {
+      "id": 103,
+      "cinemaId": 1,
+      "movieId": 5,
+      "start": "20:15 7/11/2020"
+    },
+    {
+      "id": 104,
+      "cinemaId": 1,
+      "movieId": 5,
+      "start": "15:15 7/12/2020"
+    },
+    {
+      "id": 105,
+      "cinemaId": 1,
+      "movieId": 5,
+      "start": "19:30 7/12/2020"
+    },
+    {
+      "id": 106,
+      "cinemaId": 1,
+      "movieId": 6,
+      "start": "19:00 7/10/2020"
+    },
+    {
+      "id": 107,
+      "cinemaId": 1,
+      "movieId": 6,
+      "start": "19:00 7/11/2020"
+    },
+    {
+      "id": 108,
+      "cinemaId": 1,
+      "movieId": 6,
+      "start": "21:30 7/11/2020"
+    },
+    {
+      "id": 109,
+      "cinemaId": 1,
+      "movieId": 6,
+      "start": "19:45 7/12/2020"
+    },
+    {
+      "id": 110,
+      "cinemaId": 1,
+      "movieId": 6,
+      "start": "22:10 7/12/2020"
+    },
+    {
+      "id": 111,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "13:30 7/10/2020"
+    },
+    {
+      "id": 112,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "21:00 7/10/2020"
+    },
+    {
+      "id": 113,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "15:30 7/11/2020"
+    },
+    {
+      "id": 114,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "20:00 7/11/2020"
+    },
+    {
+      "id": 115,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "23:00 7/11/2020"
+    },
+    {
+      "id": 116,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "17:00 7/12/2020"
+    },
+    {
+      "id": 117,
+      "cinemaId": 1,
+      "movieId": 7,
+      "start": "22:30 7/12/2020"
+    },
+    {
+      "id": 118,
+      "cinemaId": 1,
+      "movieId": 8,
+      "start": "17:00 7/10/2020"
+    },
+    {
+      "id": 119,
+      "cinemaId": 1,
+      "movieId": 8,
+      "start": "21:30 7/10/2020"
+    },
+    {
+      "id": 120,
+      "cinemaId": 1,
+      "movieId": 8,
+      "start": "19:45 7/11/2020"
+    },
+    {
+      "id": 121,
+      "cinemaId": 1,
+      "movieId": 8,
+      "start": "22:45 7/11/2020"
+    },
+    {
+      "id": 122,
+      "cinemaId": 1,
+      "movieId": 8,
+      "start": "15:30 7/12/2020"
+    },
+    {
+      "id": 123,
+      "cinemaId": 1,
+      "movieId": 8,
+      "start": "21:15 7/12/2020"
+    },
+    {
+      "id": 124,
+      "cinemaId": 1,
+      "movieId": 9,
+      "start": "13:00 7/10/2020"
+    },
+    {
+      "id": 125,
+      "cinemaId": 1,
+      "movieId": 9,
+      "start": "21:00 7/10/2020"
+    },
+    {
+      "id": 126,
+      "cinemaId": 1,
+      "movieId": 9,
+      "start": "17:30 7/11/2020"
+    },
+    {
+      "id": 127,
+      "cinemaId": 1,
+      "movieId": 9,
+      "start": "22:15 7/11/2020"
+    },
+    {
+      "id": 128,
+      "cinemaId": 1,
+      "movieId": 9,
+      "start": "15:00 7/12/2020"
+    },
+    {
+      "id": 129,
+      "cinemaId": 1,
+      "movieId": 9,
+      "start": "20:00 7/12/2020"
+    },
+    {
+      "id": 130,
+      "cinemaId": 1,
+      "movieId": 10,
+      "start": "14:30 7/10/2020"
+    },
+    {
+      "id": 131,
+      "cinemaId": 1,
+      "movieId": 10,
+      "start": "17:15 7/10/2020"
+    },
+    {
+      "id": 132,
+      "cinemaId": 1,
+      "movieId": 10,
+      "start": "13:45 7/11/2020"
+    },
+    {
+      "id": 133,
+      "cinemaId": 1,
+      "movieId": 10,
+      "start": "19:00 7/11/2020"
+    },
+    {
+      "id": 134,
+      "cinemaId": 1,
+      "movieId": 10,
+      "start": "21:15 7/11/2020"
+    },
+    {
+      "id": 135,
+      "cinemaId": 1,
+      "movieId": 10,
+      "start": "18:00 7/12/2020"
+    },
+    {
+      "id": 136,
+      "cinemaId": 1,
+      "movieId": 11,
+      "start": "14:30 7/10/2020"
+    },
+    {
+      "id": 137,
+      "cinemaId": 1,
+      "movieId": 11,
+      "start": "18:00 7/10/2020"
+    },
+    {
+      "id": 138,
+      "cinemaId": 1,
+      "movieId": 11,
+      "start": "20:00 7/11/2020"
+    },
+    {
+      "id": 139,
+      "cinemaId": 1,
+      "movieId": 11,
+      "start": "23:00 7/11/2020"
+    },
+    {
+      "id": 140,
+      "cinemaId": 1,
+      "movieId": 11,
+      "start": "19:00 7/12/2020"
+    }
+  ],
+
+  "seat": [
+    {
+      "id": 0,
+      "name": "1A",
+      "room" : 1
+    },
+    {
+      "id": 1,
+      "name": "1B"
+    },
+    {
+      "id": 2,
+      "name": "1C"
+    },
+    {
+      "id": 3,
+      "name": "1D"
+    },
+    {
+      "id": 4,
+      "name": "1E"
+    },
+    {
+      "id": 5,
+      "name": "1F"
+    },
+    {
+      "id": 6,
+      "name": "1G"
+    },
+    {
+      "id": 7,
+      "name": "1H"
+    },
+    {
+      "id": 8,
+      "name": "2A"
+    },
+    {
+      "id": 9,
+      "name": "2B"
+    },
+    {
+      "id": 10,
+      "name": "2C"
+    },
+    {
+      "id": 11,
+      "name": "2D"
+    },
+    {
+      "id": 11,
+      "name": "2E"
+    },
+    {
+      "id": 12,
+      "name": "2F"
+    },
+    {
+      "id": 13,
+      "name": "2G"
+    },
+    {
+      "id": 14,
+      "name": "2H"
+    },
+    {
+      "id": 15,
+      "name": "3A"
+    },
+    {
+      "id": 16,
+      "name": "3B"
+    },
+    {
+      "id": 17,
+      "name": "3C"
+    },
+    {
+      "id": 18,
+      "name": "3D"
+    },
+    {
+      "id": 19,
+      "name": "3E"
+    },
+    {
+      "id": 20,
+      "name": "3F"
+    },
+    {
+      "id": 21,
+      "name": "3G"
+    },
+    {
+      "id": 22,
+      "name": "3H"
+    },
+    {
+      "id": 23,
+      "name": "4A"
+    },
+    {
+      "id": 24,
+      "name": "4B"
+    },
+    {
+      "id": 25,
+      "name": "4C"
+    },
+    {
+      "id": 26,
+      "name": "4D"
+    },
+    {
+      "id": 27,
+      "name": "4E"
+    },
+    {
+      "id": 28,
+      "name": "4F"
+    },
+    {
+      "id": 29,
+      "name": "4G"
+    },
+    {
+      "id": 30,
+      "name": "4H"
+    },
+    {
+      "id": 31,
+      "name": "5A"
+    },
+    {
+      "id": 32,
+      "name": "5B"
+    },
+    {
+      "id": 33,
+      "name": "5C"
+    },
+    {
+      "id": 34,
+      "name": "5D"
+    },
+    {
+      "id": 35,
+      "name": "5E"
+    },
+    {
+      "id": 36,
+      "name": "5F"
+    },
+    {
+      "id": 37,
+      "name": "5G"
+    },
+    {
+      "id": 38,
+      "name": "5H"
+    },
+    {
+      "id": 39,
+      "name": "6A"
+    },
+    {
+      "id": 40,
+      "name": "6B"
+    },
+    {
+      "id": 41,
+      "name": "6C"
+    },
+    {
+      "id": 42,
+      "name": "6D"
+    },
+    {
+      "id": 43,
+      "name": "6E"
+    },
+    {
+      "id": 44,
+      "name": "6F"
+    },
+    {
+      "id": 45,
+      "name": "6G"
+    },
+    {
+      "id": 46,
+      "name": "6H"
+    }
+  ]
+
 }
