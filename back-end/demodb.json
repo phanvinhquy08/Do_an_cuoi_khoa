@@ -353,175 +353,103 @@
     },
     {
       "id": 5,
-      "name": "1F"
-    },
-    {
-      "id": 6,
-      "name": "1G"
-    },
-    {
-      "id": 7,
-      "name": "1H"
-    },
-    {
-      "id": 8,
       "name": "2A"
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "2B"
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "2C"
     },
     {
-      "id": 11,
+      "id": 8,
       "name": "2D"
     },
     {
-      "id": 11,
+      "id": 9,
       "name": "2E"
     },
     {
-      "id": 12,
-      "name": "2F"
-    },
-    {
-      "id": 13,
-      "name": "2G"
-    },
-    {
-      "id": 14,
-      "name": "2H"
-    },
-    {
-      "id": 15,
+      "id": 10,
       "name": "3A"
     },
     {
-      "id": 16,
+      "id": 11,
       "name": "3B"
     },
     {
-      "id": 17,
+      "id": 12,
       "name": "3C"
     },
     {
-      "id": 18,
+      "id": 13,
       "name": "3D"
     },
     {
-      "id": 19,
+      "id": 14,
       "name": "3E"
     },
     {
-      "id": 20,
-      "name": "3F"
-    },
-    {
-      "id": 21,
-      "name": "3G"
-    },
-    {
-      "id": 22,
-      "name": "3H"
-    },
-    {
-      "id": 23,
+      "id": 15,
       "name": "4A"
     },
     {
-      "id": 24,
+      "id": 16,
       "name": "4B"
     },
     {
-      "id": 25,
+      "id": 17,
       "name": "4C"
     },
     {
-      "id": 26,
+      "id": 18,
       "name": "4D"
     },
     {
-      "id": 27,
+      "id": 19,
       "name": "4E"
     },
     {
-      "id": 28,
-      "name": "4F"
-    },
-    {
-      "id": 29,
-      "name": "4G"
-    },
-    {
-      "id": 30,
-      "name": "4H"
-    },
-    {
-      "id": 31,
+      "id": 20,
       "name": "5A"
     },
     {
-      "id": 32,
+      "id": 21,
       "name": "5B"
     },
     {
-      "id": 33,
+      "id": 22,
       "name": "5C"
     },
     {
-      "id": 34,
+      "id": 23,
       "name": "5D"
     },
     {
-      "id": 35,
+      "id": 24,
       "name": "5E"
     },
     {
-      "id": 36,
-      "name": "5F"
-    },
-    {
-      "id": 37,
-      "name": "5G"
-    },
-    {
-      "id": 38,
-      "name": "5H"
-    },
-    {
-      "id": 39,
+      "id": 25,
       "name": "6A"
     },
     {
-      "id": 40,
+      "id": 26,
       "name": "6B"
     },
     {
-      "id": 41,
+      "id": 27,
       "name": "6C"
     },
     {
-      "id": 42,
+      "id": 28,
       "name": "6D"
     },
     {
-      "id": 43,
+      "id": 29,
       "name": "6E"
-    },
-    {
-      "id": 44,
-      "name": "6F"
-    },
-    {
-      "id": 45,
-      "name": "6G"
-    },
-    {
-      "id": 46,
-      "name": "6H"
     }
   ],
   "tickets": [
@@ -529,746 +457,201 @@
       "id": 0,
       "idSchedule": 0,
       "idSeat": 0,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 1,
       "idSchedule": 0,
       "idSeat": 1,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 2,
       "idSchedule": 0,
       "idSeat": 2,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 3,
       "idSchedule": 0,
       "idSeat": 3,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 4,
       "idSchedule": 0,
       "idSeat": 4,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 5,
       "idSchedule": 0,
       "idSeat": 5,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 6,
       "idSchedule": 0,
       "idSeat": 6,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 7,
       "idSchedule": 0,
       "idSeat": 7,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 8,
       "idSchedule": 0,
       "idSeat": 8,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 9,
       "idSchedule": 0,
       "idSeat": 9,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 10,
       "idSchedule": 0,
       "idSeat": 10,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 11,
       "idSchedule": 0,
       "idSeat": 11,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 12,
       "idSchedule": 0,
       "idSeat": 12,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 13,
       "idSchedule": 0,
       "idSeat": 13,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 14,
       "idSchedule": 0,
       "idSeat": 14,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 15,
       "idSchedule": 0,
       "idSeat": 15,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 16,
       "idSchedule": 0,
       "idSeat": 16,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 17,
       "idSchedule": 0,
       "idSeat": 17,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 18,
       "idSchedule": 0,
       "idSeat": 18,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 19,
       "idSchedule": 0,
       "idSeat": 19,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 20,
       "idSchedule": 0,
       "idSeat": 20,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 21,
       "idSchedule": 0,
       "idSeat": 21,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 22,
       "idSchedule": 0,
       "idSeat": 22,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 23,
       "idSchedule": 0,
       "idSeat": 23,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 24,
       "idSchedule": 0,
       "idSeat": 24,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 25,
       "idSchedule": 0,
       "idSeat": 25,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 26,
       "idSchedule": 0,
       "idSeat": 26,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 27,
       "idSchedule": 0,
       "idSeat": 27,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 28,
       "idSchedule": 0,
       "idSeat": 28,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 29,
       "idSchedule": 0,
       "idSeat": 29,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "price": 45000
     },
     {
       "id": 30,
-      "idSchedule": 0,
-      "idSeat": 30,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "idSchedule": 1,
+      "idSeat": 0,
+      "price": 50000
     },
     {
       "id": 31,
-      "idSchedule": 0,
-      "idSeat": 31,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "idSchedule": 1,
+      "idSeat": 1,
+      "price": 50000
     },
     {
       "id": 32,
-      "idSchedule": 0,
-      "idSeat": 32,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 33,
-      "idSchedule": 0,
-      "idSeat": 33,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 34,
-      "idSchedule": 0,
-      "idSeat": 34,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 35,
-      "idSchedule": 0,
-      "idSeat": 35,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 36,
-      "idSchedule": 0,
-      "idSeat": 36,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 37,
-      "idSchedule": 0,
-      "idSeat": 37,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 38,
-      "idSchedule": 0,
-      "idSeat": 38,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 39,
-      "idSchedule": 0,
-      "idSeat": 39,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 40,
-      "idSchedule": 0,
-      "idSeat": 40,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 41,
-      "idSchedule": 0,
-      "idSeat": 41,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 42,
-      "idSchedule": 0,
-      "idSeat": 42,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 43,
-      "idSchedule": 0,
-      "idSeat": 43,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 44,
-      "idSchedule": 0,
-      "idSeat": 44,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 45,
-      "idSchedule": 0,
-      "idSeat": 45,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 46,
-      "idSchedule": 0,
-      "idSeat": 46,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 47,
-      "idSchedule": 0,
-      "idSeat": 7,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 48,
       "idSchedule": 1,
-      "idSeat": 48,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 49,
-      "idSchedule": 1,
-      "idSeat": 49,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 50,
-      "idSchedule": 1,
-      "idSeat": 50,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 51,
-      "idSchedule": 1,
-      "idSeat": 51,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 52,
-      "idSchedule": 1,
-      "idSeat": 52,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 53,
-      "idSchedule": 1,
-      "idSeat": 53,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 54,
-      "idSchedule": 1,
-      "idSeat": 54,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 55,
-      "idSchedule": 1,
-      "idSeat": 55,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 56,
-      "idSchedule": 1,
-      "idSeat": 56,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 57,
-      "idSchedule": 1,
-      "idSeat": 57,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 58,
-      "idSchedule": 1,
-      "idSeat": 58,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 59,
-      "idSchedule": 1,
-      "idSeat": 59,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 60,
-      "idSchedule": 1,
-      "idSeat": 60,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 61,
-      "idSchedule": 1,
-      "idSeat": 61,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 62,
-      "idSchedule": 1,
-      "idSeat": 62,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 63,
-      "idSchedule": 1,
-      "idSeat": 63,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 64,
-      "idSchedule": 1,
-      "idSeat": 64,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 65,
-      "idSchedule": 1,
-      "idSeat": 65,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 66,
-      "idSchedule": 1,
-      "idSeat": 66,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 67,
-      "idSchedule": 1,
-      "idSeat": 67,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 68,
-      "idSchedule": 1,
-      "idSeat": 68,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 69,
-      "idSchedule": 1,
-      "idSeat": 69,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 70,
-      "idSchedule": 1,
-      "idSeat": 70,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 71,
-      "idSchedule": 1,
-      "idSeat": 71,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 72,
-      "idSchedule": 1,
-      "idSeat": 72,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 73,
-      "idSchedule": 1,
-      "idSeat": 73,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 74,
-      "idSchedule": 1,
-      "idSeat": 74,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 75,
-      "idSchedule": 1,
-      "idSeat": 75,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 76,
-      "idSchedule": 1,
-      "idSeat": 76,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 77,
-      "idSchedule": 1,
-      "idSeat": 77,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 78,
-      "idSchedule": 1,
-      "idSeat": 78,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 79,
-      "idSchedule": 1,
-      "idSeat": 79,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 80,
-      "idSchedule": 1,
-      "idSeat": 80,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 81,
-      "idSchedule": 1,
-      "idSeat": 81,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 82,
-      "idSchedule": 1,
-      "idSeat": 82,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 83,
-      "idSchedule": 1,
-      "idSeat": 83,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 84,
-      "idSchedule": 1,
-      "idSeat": 84,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 85,
-      "idSchedule": 1,
-      "idSeat": 85,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 86,
-      "idSchedule": 1,
-      "idSeat": 86,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 87,
-      "idSchedule": 1,
-      "idSeat": 87,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 88,
-      "idSchedule": 1,
-      "idSeat": 88,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 89,
-      "idSchedule": 1,
-      "idSeat": 89,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 90,
-      "idSchedule": 1,
-      "idSeat": 90,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 91,
-      "idSchedule": 1,
-      "idSeat": 91,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
-    },
-    {
-      "id": 93,
-      "idSchedule": 1,
-      "idSeat": 92,
-      "price": 45000,
-      "amount": 0,
-      "totalPrice": 0
+      "idSeat": 2,
+      "price": 50000
     }
+    
   ],
   "users": [
     {
@@ -1282,7 +665,9 @@
       "phone": "666666666",
       "address": "1215 Nguyễn Tất Thành",
       "country": "Đà Nẵng",
-      "state": "Thanh Khe"
+      "state": "Thanh Khe",
+      "admin":false,
+      "user":true
     },
     {
       "id": 1,
@@ -1295,7 +680,9 @@
       "phone": "777777777",
       "address": "Kiến Trúc Xa Phía Tây",
       "country": "Đà Nẵng",
-      "state": "Liên Chiểu"
+      "state": "Liên Chiểu",
+      "admin":false,
+      "user":true
     },
     {
       "id": 2,
@@ -1308,8 +695,17 @@
       "phone": "555555555",
       "address": "......",
       "country": "Đà Nẵng",
-      "state": "Hòa Khánh"
+      "state": "Hòa Khánh",
+      "admin":false,
+      "user":true
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "id":0,
+      "idTicket":[0,1],
+      "idUser":0
+    }
+  ],
+  "news" : []
 }
