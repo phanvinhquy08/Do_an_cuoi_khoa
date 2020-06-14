@@ -1225,5 +1225,32 @@
             "movieId": 11,
             "start": "19:00 7/12/2020"
         }
+    ],
+    "users": [
+        {
+            "id": 0,
+            "name": "abc",
+            "email": "anb",
+            "password": "ahdasf"
+
+        }
+    ],
+    "tickets": [
+        {
+            "id":0,
+            "userId": 0,
+            "scheduleId": 0,
+            "movieId": 0,
+            "seatId":0
+        }
+    ],
+
+    "news":[],
+    "seat": [
+        {
+            "id": 0,
+            "number": "1A",
+            "cinemaId":0
+        }
     ]
 }
