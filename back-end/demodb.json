@@ -320,25 +320,73 @@
     {
       "id": 0,
       "movieId": 0,
-      "start": "13:30 7/13/2020",
+      "start": "13:30 7/11/2020",
       "room": 1
     },
     {
       "id": 1,
       "movieId": 0,
-      "start": "17:00 7/13/2020",
+      "start": "17:00 7/11/2020",
       "room": 1
     },
     {
       "id": 2,
       "movieId": 1,
-      "start": "15:30 7/13/2020",
+      "start": "15:30 7/11/2020",
       "room": 2
     },
     {
       "id": 3,
       "movieId": 1,
-      "start": "19:00 7/13/2020",
+      "start": "19:00 7/11/2020",
+      "room": 2
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "start": "15:30 7/12/2020",
+      "room": 1
+    },
+    {
+      "id": 5,
+      "movieId": 2,
+      "start": "19:00 7/12/2020",
+      "room": 1
+    },
+    {
+      "id": 6,
+      "movieId": 3,
+      "start": "18:30 7/12/2020",
+      "room": 2
+    },
+    {
+      "id": 7,
+      "movieId": 3,
+      "start": "21:30 7/12/2020",
+      "room": 2
+    },
+    {
+      "id": 8,
+      "movieId": 4,
+      "start": "13:40 7/13/2020",
+      "room": 1
+    },
+    {
+      "id": 9,
+      "movieId": 4,
+      "start": "22:40 7/13/2020",
+      "room": 1
+    },
+    {
+      "id": 10,
+      "movieId": 5,
+      "start": "18:30 7/13/2020",
+      "room": 2
+    },
+    {
+      "id": 11,
+      "movieId": 5,
+      "start": "21:30 7/13/2020",
       "room": 2
     }
   ],
@@ -1184,7 +1232,188 @@
       "idSchedule": 3,
       "idSeat": 29,
       "price": 55000
+    },
+    {
+      "id": 120,
+      "idSchedule" : 4,
+      "idSeat": 0,
+      "price": 56000
+    },
+    {
+      "id": 121,
+      "idSchedule" : 4,
+      "idSeat": 1,
+      "price": 56000
+    },
+    {
+      "id": 122,
+      "idSchedule" : 4,
+      "idSeat": 2,
+      "price": 56000
+    },
+    {
+      "id": 123,
+      "idSchedule" : 4,
+      "idSeat": 3,
+      "price": 56000
+    },
+    {
+      "id": 124,
+      "idSchedule" : 4,
+      "idSeat": 4,
+      "price": 56000
+    },
+    {
+      "id": 125,
+      "idSchedule" : 4,
+      "idSeat": 5,
+      "price": 56000
+    },
+    {
+      "id": 126,
+      "idSchedule" : 4,
+      "idSeat": 6,
+      "price": 56000
+    },
+    {
+      "id": 127,
+      "idSchedule" : 4,
+      "idSeat": 7,
+      "price": 56000
+    },
+    {
+      "id": 128,
+      "idSchedule" : 4,
+      "idSeat": 8,
+      "price": 56000
+    },
+    {
+      "id": 129,
+      "idSchedule" : 4,
+      "idSeat": 9,
+      "price": 56000
+    },
+    {
+      "id": 130,
+      "idSchedule" : 4,
+      "idSeat": 10,
+      "price": 56000
+    },
+    {
+      "id": 131,
+      "idSchedule" : 4,
+      "idSeat": 11,
+      "price": 56000
+    },
+    {
+      "id": 132,
+      "idSchedule" : 4,
+      "idSeat": 12,
+      "price": 56000
+    },
+    {
+      "id": 133,
+      "idSchedule" : 4,
+      "idSeat": 13,
+      "price": 56000
+    },
+    {
+      "id": 134,
+      "idSchedule" : 4,
+      "idSeat": 14,
+      "price": 56000
+    },
+    {
+      "id": 135,
+      "idSchedule" : 4,
+      "idSeat": 15,
+      "price": 56000
+    },
+    {
+      "id": 136,
+      "idSchedule" : 4,
+      "idSeat": 16,
+      "price": 56000
+    },
+    {
+      "id": 137,
+      "idSchedule" : 4,
+      "idSeat": 17,
+      "price": 56000
+    },
+    {
+      "id": 138,
+      "idSchedule" : 4,
+      "idSeat": 18,
+      "price": 56000
+    },
+    {
+      "id": 139,
+      "idSchedule" : 4,
+      "idSeat": 19,
+      "price": 56000
+    },
+    {
+      "id": 140,
+      "idSchedule" : 4,
+      "idSeat": 20,
+      "price": 56000
+    },
+    {
+      "id": 141,
+      "idSchedule" : 4,
+      "idSeat": 21,
+      "price": 56000
+    },
+    {
+      "id": 142,
+      "idSchedule" : 4,
+      "idSeat": 22,
+      "price": 56000
+    },
+    {
+      "id": 143,
+      "idSchedule" : 4,
+      "idSeat": 23,
+      "price": 56000
+    },
+    {
+      "id": 144,
+      "idSchedule" : 4,
+      "idSeat": 24,
+      "price": 56000
+    },
+    {
+      "id": 145,
+      "idSchedule" : 4,
+      "idSeat": 25,
+      "price": 56000
+    },
+    {
+      "id": 146,
+      "idSchedule" : 4,
+      "idSeat": 26,
+      "price": 56000
+    },
+    {
+      "id": 147,
+      "idSchedule" : 4,
+      "idSeat": 27,
+      "price": 56000
+    },
+    {
+      "id": 148,
+      "idSchedule" : 4,
+      "idSeat": 28,
+      "price": 56000
+    },
+    {
+      "id": 149,
+      "idSchedule" : 4,
+      "idSeat": 29,
+      "price": 56000
     }
+
   ],
   "users": [
     {
