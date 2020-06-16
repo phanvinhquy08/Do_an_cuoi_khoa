@@ -1,0 +1,19 @@
+{
+  "name": "do_an_cuoi_khoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanvinhquy08/Do_an_cuoi_khoa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phanvinhquy08/Do_an_cuoi_khoa/issues"
+  },
+  "homepage": "https://github.com/phanvinhquy08/Do_an_cuoi_khoa#readme"
+}

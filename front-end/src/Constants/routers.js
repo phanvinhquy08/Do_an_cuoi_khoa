@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Home from '../Pages/Home';
+import Home from '../Pages/Home';// import component
 import Movies from '../Pages/Movies';
 import About from '../Pages/About';
 import Booking from '../Pages/Booking';

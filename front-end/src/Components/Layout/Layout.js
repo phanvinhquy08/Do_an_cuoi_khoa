@@ -7,6 +7,7 @@ import {
 
 import routers from '../../Constants/routers';
 import Navigation from './Navigation';
+import Footer from './Footer'
 
 export default class Layout extends Component {
     render() {
@@ -25,6 +26,7 @@ export default class Layout extends Component {
                         )
                     })}
                 </Switch>
+                <Footer />
             </Router>
         )
     }
