@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&display=swap');
+.navigation nav {
+    padding: 0;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.7) !important;
+}
+.navigation .navigation-logo {
+    font-family: 'Lobster', cursive;
+    font-size: 32px;
+    color: #FC8500 !important;
+}
+.navigation .navigation-item {
+    padding: 16px;
+    font-weight: bold;
+    position: relative;
+}
+.navigation .navigation-item .nav-link {
+    color: #FFF !important;
+}
+.navigation .navigation-item.active .nav-link{
+    color: #FC8500 !important;
+}
+.navigation .navigation-stick {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 3px;
+    background-color: #FC8500;
+    transition: .5s;
+}
+.navigation .navigation-item.active .navigation-stick {
+    width: 100%;
+}
+.navigation .navigation-btn-group .navigation-btn {
+    background: rgb(236,176,133);
+    background: linear-gradient(45deg, rgba(236,176,133,1) 0%, rgba(242,119,24,1) 100%);
+    outline: none;
+    border-radius: 20px;
+    padding: 8px 32px;
+    border: none;
+    font-weight: bold;
+    margin-left: 8px;
+}
