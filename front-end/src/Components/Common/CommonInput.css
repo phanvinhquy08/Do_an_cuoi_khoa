@@ -32,6 +32,7 @@
 }
 .group-field .input-field:focus, .group-field .input-field:valid {
     border-bottom: 2px solid #FC8500;
+    background: transparent;
 }
 
 .group-field .input-field:valid ~ .label-field, 

@@ -42,3 +42,18 @@
     font-weight: bold;
     margin-left: 8px;
 }
+.navigation .navigation-user {
+    color: #FFF;
+    /* font-weight: 600; */
+    padding: 8px;
+    border-left: 1px solid #FC8500;
+    display: flex;
+    align-items: center;
+}
+.navigation .navigation-user .navigation-user-img {
+    width: 30px;
+    height: 30px;
+    background-color: #FFF;
+    border-radius: 50%;
+    margin-right: 8px;
+}

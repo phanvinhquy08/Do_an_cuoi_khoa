@@ -13,8 +13,9 @@ import {
 import { Link } from "react-router-dom";
 
 import "./Navigation.css";
+import { connect } from "react-redux";
 
-export default class Navigation extends Component {
+class Navigation extends Component {
   state = {
     isOpen: false,
     active: {
@@ -22,7 +23,7 @@ export default class Navigation extends Component {
       news: false,
       movies: false,
       booking: false,
-    },
+    }
   };
   toggle = () => {
     this.setState({ isOpen: !this.state.isOpen });
@@ -79,6 +80,7 @@ export default class Navigation extends Component {
   };
   render() {
     const { isOpen, active } = this.state;
+    const { currentAccount } = this.props;
     return (
       <div className="navigation">
         <Navbar color="light" light expand="md" fixed="top">
@@ -121,7 +123,7 @@ export default class Navigation extends Component {
                 <NavItem
                   className={`navigation-item ${
                     active.booking ? "active" : ""
-                  }`}
+                    }`}
                 >
                   <NavLink
                     tag={Link}
@@ -133,18 +135,27 @@ export default class Navigation extends Component {
                   <div className="navigation-stick" />
                 </NavItem>
               </Nav>
-              <div className="navigation-btn-group">
-                <Link to="/register">
-                  <Button className="navigation-btn" onClick={this.activeNone}>
-                    Register
+              {currentAccount ?
+                <div className="navigation-user">
+                  <div className="navigation-user-img"></div>
+                  {currentAccount.email}
+                </div>
+                :
+                <div className="navigation-btn-group">
+                  <Link to="/register">
+                    <Button className="navigation-btn" onClick={this.activeNone}>
+                      Register
                   </Button>
-                </Link>
-                <Link to="/login">
-                  <Button className="navigation-btn" onClick={this.activeNone}>
-                    Login
+                  </Link>
+                  <Link to="/login">
+                    <Button className="navigation-btn" onClick={this.activeNone}>
+                      Login
                   </Button>
-                </Link>
-              </div>
+                  </Link>
+                </div>
+              }
+
+
             </Collapse>
           </Container>
         </Navbar>
@@ -152,3 +163,12 @@ export default class Navigation extends Component {
     );
   }
 }
+const mapStateToProps = (state) => ({
+  currentAccount: state.login.currentAccount
+})
+
+const mapDispatchToProps = {
+  
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Navigation)

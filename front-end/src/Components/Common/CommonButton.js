@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import "./CommonButton.css"
+import { Button } from 'reactstrap';
 
 
 export default class CommonButton extends Component {
@@ -7,12 +8,12 @@ export default class CommonButton extends Component {
         const { children, style, type } = this.props;
         return (
             <>
-                <button
+                <Button
                     style={{ ...style }}
                     type={type}
                 >
                     {children}
-                </button>
+                </Button>
             </>
         )
     }
