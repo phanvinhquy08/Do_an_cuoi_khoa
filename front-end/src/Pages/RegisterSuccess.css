@@ -1,0 +1,18 @@
+.register-success{
+    background: url(https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg);
+    height: 100vh;
+    color: #FC8500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.register-success .container {
+    margin-top: 100px;
+    text-align: center;
+}
+.register-success .container>i {
+    font-size: 100px;
+}
+.register-success .container p {
+    cursor: pointer;
+}

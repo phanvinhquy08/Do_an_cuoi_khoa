@@ -17,12 +17,13 @@ class Login extends Component {
     }
     // toast
     UNSAFE_componentWillReceiveProps(nextProps) {
-        const { loginError, loginSuccess } = this.props;
+        const { loginError, loginSuccess, history } = this.props;
         if(nextProps.loginError && nextProps.loginError !== loginError) {
             toast.error(nextProps.loginError.message)
         }
         if(nextProps.loginSuccess && nextProps.loginSuccess !== loginSuccess) {
-            toast.success("Wellcome back")
+            // toast.success("Wellcome back");
+            history.push("/")
         }
     }
     onSubmit = e => {

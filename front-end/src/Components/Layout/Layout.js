@@ -4,16 +4,25 @@ import {
     Switch,
     Route
 } from "react-router-dom";
+import { connect } from 'react-redux';
+import { ToastContainer, toast } from 'react-toastify';
 
 import routers from '../../Constants/routers';
 import Navigation from './Navigation';
 import Footer from './Footer'
 
-export default class Layout extends Component {
+class Layout extends Component {
+    UNSAFE_componentWillReceiveProps(nextProps) {
+        const { loginSuccess, history } = this.props;
+        if(nextProps.loginSuccess && nextProps.loginSuccess !== loginSuccess) {
+            toast.success("Wellcome");
+        }
+    }
     render() {
+        
         return (
             <Router>
-                <Navigation/>
+                <Navigation />
                 <Switch>
                     {routers.map((router, index) => {
                         return (
@@ -27,7 +36,27 @@ export default class Layout extends Component {
                     })}
                 </Switch>
                 <Footer />
+                <ToastContainer
+                    position="top-right"
+                    autoClose={2000}
+                    hideProgressBar={false}
+                    newestOnTop={false}
+                    closeOnClick
+                    rtl={false}
+                    pauseOnFocusLoss
+                    draggable
+                    pauseOnHover
+                />
             </Router>
         )
     }
 }
+const mapStateToProps = (state) => ({
+    loginSuccess: state.login.loginSuccess
+})
+
+const mapDispatchToProps = {
+
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Layout)
