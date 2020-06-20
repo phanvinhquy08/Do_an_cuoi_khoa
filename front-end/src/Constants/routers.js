@@ -7,6 +7,7 @@ import Booking from '../Pages/Booking';
 import News from '../Pages/News';
 import Login from '../Pages/Login';
 import Register from '../Pages/Register';
+import RegisterSuccess from '../Pages/RegisterSuccess';
 
 const routers = [
     {
@@ -28,6 +29,10 @@ const routers = [
     {
         path: "/register",
         component: (props) => <Register {...props}/>
+    },
+    {
+        path: "/register/success",
+        component: (props) => <RegisterSuccess {...props}/>
     },
     {
         path: "/login",
