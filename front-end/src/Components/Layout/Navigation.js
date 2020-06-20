@@ -81,7 +81,7 @@ export default class Navigation extends Component {
     const { isOpen, active } = this.state;
     return (
       <div className="navigation">
-        <Navbar color="light" light expand="md" fixed>
+        <Navbar color="light" light expand="md" fixed={true}>
           <Container>
             <NavbarBrand
               tag={Link}

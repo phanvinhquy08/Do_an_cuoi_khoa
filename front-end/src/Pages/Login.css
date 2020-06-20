@@ -1,0 +1,22 @@
+.login {
+    background-image: url(../Img/footer-bg.png);
+    background-repeat: no-repeat;
+    height:  100vh;
+}
+.login .container {
+    display: flex;
+    justify-content: center;
+}
+.login form {
+    background: transparent;
+    padding: 16px;
+    width: 500px;
+}
+.login span {
+    color: #FC8500;
+    cursor: pointer;
+}
+.login p {
+    margin: 16px 0;
+    text-align: center;
+}

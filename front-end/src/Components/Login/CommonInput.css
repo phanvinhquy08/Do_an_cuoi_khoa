@@ -1,0 +1,43 @@
+.group-field{
+    position: relative;
+    margin-bottom: 40px;
+}
+.group-field .label-field {
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #DDD;
+    cursor: pointer;
+    transition: .3s;
+}
+.group-field .input-field {
+    width: 100%;
+    border-bottom: 1px solid #DDD;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    position: relative;
+    transition: .5s;
+    background: transparent;
+}
+.group-field:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background-color: #FC8500;
+    bottom: 0;
+    left: 0;
+}
+.group-field .input-field:focus, .group-field .input-field:valid {
+    border-bottom: 2px solid #FC8500;
+}
+
+.group-field .input-field:valid ~ .label-field, 
+.group-field .input-field:focus ~ .label-field {
+    color: #FC8500;
+    top: -16px;
+    font-size: 0.8rem; 
+    
+}
