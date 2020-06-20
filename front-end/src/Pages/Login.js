@@ -30,7 +30,10 @@ class Login extends Component {
         const { doLogin } = this.props;
         e.preventDefault();
         doLogin({ email, password })
-
+        this.setState({
+            email: "",
+            password: ""
+        })
     }
     onChange = e => {
         this.setState({ [e.target.name]: e.target.value })
