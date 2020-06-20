@@ -4,9 +4,12 @@ button {
     outline: none;
     border-radius: 20px !important;
     padding: 6px 20px;
-    border: none;
-    font-weight: bold;
+    border: none !important;
+    font-weight: bold !important;
     margin-left: 8px;
     color: #fff;
     box-shadow: 0 9px 18px rgba(0,0,0,0.2);
+}
+button:focus {
+    outline: none !important;
 }

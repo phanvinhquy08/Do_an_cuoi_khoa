@@ -1,39 +1,85 @@
 import React, { Component } from 'react';
 import { Container } from 'reactstrap';
+import { connect } from 'react-redux';
+import { ToastContainer, toast } from 'react-toastify';
 
-import CommonInput from '../Components/Login/CommonInput';
-import CommonButton from '../Components/Login/CommonButton';
+
+import CommonInput from '../Components/Common/CommonInput';
+import CommonButton from '../Components/Common/CommonButton';
+import Loading from '../Components/Common/Loading';
+import * as act from '../Action/login.action';
 
 import "./Login.css";
 class Login extends Component {
     state = {
-        userName: "",
+        email: "",
         password: ""
     }
+    // toast
+    UNSAFE_componentWillReceiveProps(nextProps) {
+        const { loginError, loginSuccess } = this.props;
+        if(nextProps.loginError && nextProps.loginError !== loginError) {
+            toast.error(nextProps.loginError.message)
+        }
+        if(nextProps.loginSuccess && nextProps.loginSuccess !== loginSuccess) {
+            toast.success("Wellcome back")
+        }
+    }
     onSubmit = e => {
+        const { email, password } = this.state;
+        const { doLogin } = this.props;
         e.preventDefault();
-        
+        doLogin({ email, password })
+
+    }
+    onChange = e => {
+        this.setState({ [e.target.name]: e.target.value })
     }
     render() {
-        const { history } = this.props;
-        const { userName, password } = this.state;
+        const { history, login, loginError, loginSuccess } = this.props;
+        const { email, password } = this.state;
         return (
-            <div className="login">
-                <Container style={{ marginTop: "100px" }}>
-                    <form onSubmit={this.onSubmit}>
-                        <CommonInput label="User name" name="userName" type="text" value={userName}/>
-                        <CommonInput label="Password" name="password" type="password" value={password} />
-                        <CommonButton
-                            children="Login"
-                            style={{ width: "100%" }}
-                            type="submit"
-                        />
-                        <p>Don't have acount? <span onClick={() => history.push("/register")}>register now</span></p>
-                    </form>
+            login ? <Loading /> :
+                <div className="login">
+                    <Container style={{ marginTop: "100px" }}>
+                        <form onSubmit={this.onSubmit}>
+                            <CommonInput label="Email" name="email" type="email" value={email} onChange={this.onChange} />
+                            <CommonInput label="Password" name="password" type="password" value={password} onChange={this.onChange} />
+                            <CommonButton
+                                children="Login"
+                                style={{ width: "100%" }}
+                                type="submit"
+                            />
+                            <p>Don't have acount? <span onClick={() => history.push("/register")}>register now</span></p>
+                        </form>
 
-                </Container>
-            </div>
+                    </Container>
+                    <ToastContainer
+                        position="top-right"
+                        autoClose={2000}
+                        hideProgressBar={false}
+                        newestOnTop={false}
+                        closeOnClick
+                        rtl={false}
+                        pauseOnFocusLoss
+                        draggable
+                        pauseOnHover
+                    />
+                </div>
+
         )
     }
 }
-export default Login
+const mapStateToProps = (state) => ({
+    login: state.login.login,
+    loginSuccess: state.login.loginSuccess,
+    loginError: state.login.loginError
+})
+
+const mapDispatchToProps = dispatch => ({
+    doLogin: account => {
+        dispatch(act.doLogin(account))
+    }
+})
+
+export default connect(mapStateToProps, mapDispatchToProps)(Login)
