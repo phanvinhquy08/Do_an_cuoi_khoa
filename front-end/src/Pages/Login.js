@@ -6,14 +6,23 @@ import CommonButton from '../Components/Login/CommonButton';
 
 import "./Login.css";
 class Login extends Component {
+    state = {
+        userName: "",
+        password: ""
+    }
+    onSubmit = e => {
+        e.preventDefault();
+        
+    }
     render() {
         const { history } = this.props;
+        const { userName, password } = this.state;
         return (
             <div className="login">
-                <Container style={{ marginTop: "32px" }}>
-                    <form>
-                        <CommonInput label="User name" name="userName" type="text" />
-                        <CommonInput label="Password" name="password" type="password" />
+                <Container style={{ marginTop: "100px" }}>
+                    <form onSubmit={this.onSubmit}>
+                        <CommonInput label="User name" name="userName" type="text" value={userName}/>
+                        <CommonInput label="Password" name="password" type="password" value={password} />
                         <CommonButton
                             children="Login"
                             style={{ width: "100%" }}

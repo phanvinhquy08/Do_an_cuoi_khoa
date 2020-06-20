@@ -53,7 +53,7 @@ export default class Footer extends React.Component {
             </Col>
             <Col sm="5">
                 <h2>Center Support</h2>
-                <div><i class="fa fa-phone" aria-hidden="true"></i></div>
+                <div><i className="fa fa-phone" aria-hidden="true"></i></div>
                 <h4>XXXXXXXXX</h4>
             </Col>
           </Row>
