@@ -1,6 +1,6 @@
 .register-success{
     background: url(https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg);
-    height: 100vh;
+    height: 70vh;
     color: #FC8500;
     display: flex;
     justify-content: center;
@@ -12,6 +12,7 @@
 }
 .register-success .container>i {
     font-size: 100px;
+    color: #FC8500;
 }
 .register-success .container p {
     cursor: pointer;
