@@ -2,9 +2,11 @@ import React from 'react';
 
 import Home from '../Pages/Home';// import component
 import Movies from '../Pages/Movies';
+import MovieDetail from '../Pages/MovieDetail';
 import About from '../Pages/About';
 import Booking from '../Pages/Booking';
 import News from '../Pages/News';
+import NewsDetail from '../Pages/NewsDetail';
 import Login from '../Pages/Login';
 import Register from '../Pages/Register';
 import RegisterSuccess from '../Pages/RegisterSuccess';
@@ -19,8 +21,16 @@ const routers = [
         component: (props) => <News {...props}/>
     },
     {
+        path: "/news/:id",
+        component: (props) => <NewsDetail {...props}/>
+    },
+    {
         path: "/movies",
         component: (props) => <Movies {...props}/>
+    },
+    {
+        path: "/movies/:id",
+        component: (props) => <MovieDetail {...props}/>
     },
     {
         path: "/booking",

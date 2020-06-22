@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import { connect } from 'react-redux';
 import { ToastContainer, toast } from 'react-toastify';
+import { isMobile } from 'react-device-detect';
 
 import routers from '../../Constants/routers';
 import Navigation from './Navigation';
@@ -35,7 +36,7 @@ class Layout extends Component {
                         )
                     })}
                 </Switch>
-                <Footer />
+                {isMobile ? null : <Footer />}
                 <ToastContainer
                     position="top-right"
                     autoClose={2000}

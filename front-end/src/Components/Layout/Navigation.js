@@ -84,7 +84,7 @@ class Navigation extends Component {
     return (
       <div className="navigation">
         <Navbar color="light" light expand="md" fixed="top">
-          <Container>
+          <Container style={{padding: "0 8px"}}>
             <NavbarBrand
               tag={Link}
               to="/"

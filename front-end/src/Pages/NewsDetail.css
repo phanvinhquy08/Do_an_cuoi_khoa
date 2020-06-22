@@ -1,0 +1,24 @@
+.news-detail {
+    margin: 100px 0;
+    background: url(https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg);
+    min-height: 100vh;
+}
+.news-detail h2 {
+    color: #FC8500;
+}
+.news-detail .news-social>i{
+    color: #FC8500 ;
+    font-size: 20px;
+    margin: 16px;
+    cursor: pointer;
+    transition: .7s;
+}
+.news-detail .news-social>i:hover {
+    transform: scale(1.5);
+}
+.news-detail .news-social>i:nth-child(1) {
+    margin-left: 0;
+}
+.news-detail .news-image {
+    text-align: center;
+}
