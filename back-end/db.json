@@ -28,6 +28,8 @@
   "movies": [
     {
       "id": 0,
+      "img": "https://i.imgur.com/iu2AjAF.jpg",
+      "banner": "https://i.imgur.com/OvLHikl.jpg",
       "name": "ẨN DANH - SEARCH OUT",
       "time": 93,
       "kind": "Hành động, hồi hộp",
@@ -43,6 +45,8 @@
     },
     {
       "id": 1,
+      "img":"https://i.imgur.com/nlcKv5w.jpg",
+      "banner":"https://i.imgur.com/Dvd0M7Z.jpg",
       "name": "QUỶ LÙN TINH NGHỊCH: CHUYẾN LƯU DIỄN THẾ GIỚI - TROLLS WORLD TOUR",
       "time": 97,
       "kind": "Hoạt hình, gia đình",
@@ -58,6 +62,8 @@
     },
     {
       "id": 2,
+      "img": "https://i.imgur.com/rU3CY3E.jpg",
+      "banner":"https://i.imgur.com/t5hj4Gg.jpg",
       "name": "ÁC QUỶ RỪNG SÂU - BABA YAGA",
       "time": 97,
       "kind": " Kinh dị,Hành động",
@@ -73,6 +79,8 @@
     },
     {
       "id": 3,
+      "img":"https://i.imgur.com/hJlve6j.jpg",
+      "banner":"https://i.imgur.com/LBz20zS.jpg",
       "name": "KẺ ĐÀO TẨU GIẤC MƠ - COMA",
       "time": 120,
       "kind": "Viễn tưởng,Phiêu lưu",
@@ -88,6 +96,8 @@
     },
     {
       "id": 4,
+      "img":"https://i.imgur.com/KL7CL8D.jpg",
+      "banner": "https://i.imgur.com/UyLvx20.jpg",
       "name": "TRẬN CHIẾN MIDWAY",
       "time": 137,
       "kind": "Hành động",
@@ -103,6 +113,8 @@
     },
     {
       "id": 5,
+      "img":"https://i.imgur.com/xIjHq65.jpg",
+      "banner":"https://i.imgur.com/cU5LUeK.jpg",
       "name": "SAMSAM - SAMSAM SIÊU NHÂN TẬP SỰ",
       "time": 137,
       "kind": "Hoạt hình,Gia đình",
@@ -118,6 +130,8 @@
     },
     {
       "id": 6,
+      "img":"https://i.imgur.com/rsQAJR0.jpg",
+      "banner":"https://i.imgur.com/c6hNu3H.jpg",
       "name": "CĂN PHÒNG ĐẪM MÁU - LINGERING",
       "time": 110,
       "kind": "Kinh dị",
@@ -133,6 +147,8 @@
     },
     {
       "id": 7,
+      "img":"https://i.imgur.com/elYFouO.jpg",
+      "banner":"https://i.imgur.com/F5A4Bg8.jpg",
       "name": "KẺ TRỰC ĐÊM - THE NIGHT CLERK",
       "time": 100,
       "kind": "Kinh dị",
@@ -148,6 +164,8 @@
     },
     {
       "id": 8,
+      "img":"https://i.imgur.com/uZzKLoD.jpg",
+      "banner":"https://i.imgur.com/hCxzVvB.jpg",
       "name": "TÔI LÀ NÃO CÁ VÀNG",
       "time": 97,
       "kind": "Lãng mạn,Tâm lý",
@@ -163,6 +181,8 @@
     },
     {
       "id": 9,
+      "img":"https://i.imgur.com/jNotrZ3.jpg",
+      "banner":"https://i.imgur.com/eyh8fAJ.jpg",
       "name": "GIA TÀI TỘI LỖI - INHERITANCE",
       "time": 119,
       "kind": "Kinh dị,Ly kỳ",
@@ -178,6 +198,8 @@
     },
     {
       "id": 10,
+      "img":"https://i.imgur.com/WRfNgGs.jpg",
+      "banner":"https://i.imgur.com/xLlRy2W.jpg",
       "name": "GIẢI CỨU CÂY ƯỚC NGUYỆN - THE WISHMAS TREE",
       "time": 87,
       "kind": "Phiêu lưu,Hoạt hình",
@@ -193,6 +215,8 @@
     },
     {
       "id": 11,
+      "img":"https://i.imgur.com/cWsDtKB.jpg",
+      "banner": "https://i.imgur.com/l80BDCw.jpg",
       "name": "BẢN GIAO HƯỞNG MÁU - SONATA",
       "time": 97,
       "kind": "Ly kỳ,Hồi hộp",
@@ -208,21 +232,8 @@
     },
     {
       "id": 12,
-      "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
-      "time": 0,
-      "kind": "Hành động,Phiêu lưu",
-      "premiere": "10/06/2020",
-      "author": "Cate Shortland",
-      "character": "Scarlett Johansson, Florence Pugh, David Harbour, O.T. Fagbenle, Rachel Weisz",
-      "language": "Phụ đề Tiếng Việt",
-      "rate": 8.5,
-      "playing": false,
-      "digital2D": true,
-      "imax3D": false,
-      "content": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
-    },
-    {
-      "id": 12,
+      "img":"https://i.imgur.com/71XCK9r.jpg",
+      "banner":"https://i.imgur.com/GuA37YM.jpg",
       "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
       "time": 0,
       "kind": "Hành động,Phiêu lưu",
@@ -238,6 +249,8 @@
     },
     {
       "id": 13,
+      "img":"https://i.imgur.com/21mA6Xd.jpg",
+      "banner":"https://i.imgur.com/QInJnKP.jpg",
       "name": "CHỊ MƯỜI BA 2 - 3 NGÀY SINH TỬ",
       "time": 0,
       "kind": "Hài hước,Hành động,Tâm lý",
@@ -253,6 +266,8 @@
     },
     {
       "id": 14,
+      "img":"https://i.imgur.com/UV02Ck8.jpg",
+      "banner":"https://i.imgur.com/n2D4Szh.jpg",
       "name": "VÙNG ĐẤT CÂM LẶNG 2 - A QUIET PLACE PART II",
       "time": 0,
       "kind": "Hài hước,Hành động,Tâm lý",
@@ -268,6 +283,8 @@
     },
     {
       "id": 15,
+      "img":"https://i.imgur.com/H9jGZIf.jpg",
+      "banner":"https://i.imgur.com/8WK7SiR.jpg",
       "name": "NỮ THẦN CHIẾN BINH 1984 - WONDER WOMAN 1984",
       "time": 0,
       "kind": "Hành động,Phiêu lưu",
@@ -283,6 +300,8 @@
     },
     {
       "id": 16,
+      "img":"https://i.imgur.com/vj4vgFH.jpg",
+      "banner":"https://i.imgur.com/PRrYjYv.jpg",
       "name": "KẺ XÂM NHẬP - INTRUDER",
       "time": 0,
       "kind": "Kinh dị,Ly kỳ",
@@ -298,6 +317,8 @@
     },
     {
       "id": 17,
+      "img":"https://i.imgur.com/gWrggTY.jpg",
+      "banner":"https://i.imgur.com/sO9bRDP.jpg",
       "name": "SÓI 100% - 100% WOLF",
       "time": 0,
       "kind": "Hoạt hình,Gia đình",
@@ -313,6 +334,8 @@
     },
     {
       "id": 18,
+      "img":"https://i.imgur.com/tvtitWa.jpg",
+      "banner":"https://i.imgur.com/K8eRME4.jpg",
       "name": "TRÙNG QUỶ ĐẠI DƯƠNG - SEA FEVER",
       "time": 91,
       "kind": "Kinh dị,Hành động,Viễn tưởng",
@@ -328,6 +351,8 @@
     },
     {
       "id": 19,
+      "img":"https://i.imgur.com/UTHgWlT.jpg",
+      "banner":"https://i.imgur.com/UeeECk3.jpg",
       "name": "CƠN MƯA TÌNH ĐẦU - CLASSIC AGAIN",
       "time": 121,
       "kind": "Lãng mạn,Tâm lý",
@@ -1235,7 +1260,8 @@
     },
     {
       "email": "quy@gmail.com",
-      "password": "$2a$10$exyc7afK3PPo2VLEiIQbOO/rgSajhs7o4Kn0BipapWAOUbWaepPgG",
+      "password": "$2a$10$GAAEo3iCylWd6Jb98cRZtuit6cj1JrYl105YlG1as/F7jcsxWRNau",
+      "name": "quy",
       "id": 1
     }
   ],
@@ -1421,7 +1447,81 @@
       "price": 56000
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "id": 0,
+      "title": "SỰ KIỆN RA MẮT PHIM 'CUỘC GỌI ĐỊNH MỆNH' TẠI CINEMAXXX",
+      "date": "2/25/2020",
+      "content": "Tối 25/2, nhà sản xuất họp báo ra mắt bộ phim “Cuộc gọi định mệnh” tại TP.HCM. Buổi công chiếu có sự xuất hiện của đạo diễn Tạ Huy Cường, diễn viên Hiếu Hiền, Văn Phượng, DJ Oxy. Đại diện phía Mông Cổ có đạo diễn Tamir Bat Ulzii, nhà sản xuất Unuu Bold và tham tán Mông Cổ tại Việt Nam.",
+      "img":"https://i.imgur.com/g0ExCUX.jpg",
+      "imgDetail": [
+        "https://i.imgur.com/WLu48LE.jpg",
+        "https://i.imgur.com/CST9WoG.jpg",
+        "https://i.imgur.com/qkWDfVc.jpg",
+        "https://i.imgur.com/pgBiOn7.jpg",
+        "https://i.imgur.com/JazucrB.jpg",
+        "https://i.imgur.com/fLlF6tm.jpg",
+        "https://i.imgur.com/DFfSohP.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "NÊN ĐI ĐÂU VÀO DỊP GIÁNG SINH 2020?",
+      "date": "6/26/2020",
+      "content": "Noel đã đến gần, bạn dự định sẽ làm gì trong ngày lễ Giáng Sinh? Hay bạn vẫn chưa biết đến đâu và làm gì trong dịp Giáng Sinh này? Nếu như vậy, hãy đến ngay Mega GS Cinemas để tận hưởng những phút giây tuyệt vời trong mùa Noel này nhé.",
+      "img": "https://i.imgur.com/yoGTFLQ.png",
+      "imgDetail":[]
+    },
+    {
+      "id": 2,
+      "title": "BẠCH CÔNG KHANH RA MẮT MV MỚI TẠI MEGA GS CINEMAXXX",
+      "date": "6/27/2020",
+      "content": "Ngày 25/6 vừa qua, ca sĩ Bạch Công Khanh chính thức ra mắt MV nhạc dance “Em đang nơi nào” gây ấn tượng với khả năng vũ đạo của mình.",
+      "img":"https://i.imgur.com/fN4iRnd.jpg",
+      "imgDetail":[]
+    },
+    {
+      "id": 3,
+      "title": "LỄ CÔNG BỐ PHÁT SÓNG CHƯƠNG TRÌNH 'GIỌNG ẢI GIỌNG AI' TẠI CINEMAXXX",
+      "date": "6/31/2020",
+      "content": "'Giọng ải giọng ai' (Hidden Voices) là game show về âm nhạc “bá đạo” nhất khi có sự kết hợp giữa nhiều yếu tố như âm nhạc, hài hước và cả tư duy phán đoán... vừa chính thức họp báo vào ngày thứ năm 27/10 vừa qua.",
+      "img":"https://i.imgur.com/hq8PsXv.jpg",
+      "imgDetail":[]
+    },
+    {
+      "id": 4,
+      "title": "LỄ GIỚI THIỆU CHƯƠNG TRÌNH 'THẦN TƯỢNG TƯƠNG LAI' TẠI CINEMAXXX",
+      "date": "6/29/2020",
+      "content": "Thần Tượng Tương Lai là chương trình tìm kiếm những tài năng nhí hát thể loại âm nhạc mang âm hưởng dân ca, trữ tình và truyền thống quê hương từ 7 – 15 tuổi, mùa đầu tiên với dàn giám khảo: NSND Thu Hiền, Quang Linh và Cẩm Ly.",
+      "img": "https://i.imgur.com/dYBY3oK.jpg",
+      "imgDetail":[]
+    },
+    {
+      "id": 5,
+      "title": "TRẤN THÀNH ĐẾN CHÚC MỪNG HARIWON RA MĂT MV 'LÀM SAO ĐỂ YÊU' TẠI CINEMAXXX",
+      "date": "6/30/2020",
+      "content": "Chiều 30/6 tại TP.HCM Hari Won chính thức giới thiệu đến khán giả và truyền thông MV Làm sao để yêu. Bạn trai của Hari Won, MC Trấn Thành ôm gấu bông đến chúc mừng cô khiến cho buổi ra mắt MV sôi động hơn.",
+      "img":"https://i.imgur.com/hdihKIF.jpg",
+      "imgDetail":[]
+    },
+    {
+      "id": 6,
+      "title": "HÀ HỒ RA MẮT PHIM NGẮN 'GỬI NGƯỜI YÊU CŨ' TẠI CINEMAXXX",
+      "date": "6/30/2020",
+      "content": "Nữ ca sĩ Hồ Ngọc Hà có buổi ra mắt phim ngắn 'Gửi người yêu cũ' tại Mega GS sau thời gian dài thực hiện.",
+      "img":"https://i.imgur.com/nrTvnlM.jpg",
+      "imgDetail":[]
+    },
+
+    {
+      "id": 7,
+      "title": "GƯƠNG MẶT THÂN QUEN 2017 RA MẮT DÀN THÍ SINH TRẺ ĐẸP TẠI RẠP CINEMAXXX",
+      "date": "6/28/2020",
+      "content": "Ngoại trừ thí sinh U50 Kỳ Phương, thì các thí sinh còn lại rất trẻ đẹp và tài năng như: Hoàng Yến Chibi, Jun 365, Quốc Thiên, Phượng Vũ và Tố Ny.",
+      "img":"https://i.imgur.com/mqKc1uP.png",
+      "imgDetail":[]
+    }
+  ],
   "seat": [
     {
       "id": 0,

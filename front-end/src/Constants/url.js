@@ -4,3 +4,4 @@ export const url_login = url + "/login";
 export const url_register = url + "/register";
 export const url_movies = url + "/movies";
 export const url_schedules = url + "/schedules";
+export const url_news = url + "/news";

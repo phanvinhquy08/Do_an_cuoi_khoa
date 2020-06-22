@@ -1,0 +1,33 @@
+.group-field{
+    position: relative;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+}
+.group-field>i {
+    color: #FC8500;
+    font-size: 20px;
+    margin-right: 5px;
+}
+.group-field .input-field {
+    width: 100%;
+    border-bottom: 1px solid #DDD;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    position: relative;
+    transition: .5s;
+    background: transparent;
+}
+.group-field:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background-color: #FC8500;
+    bottom: 0;
+    left: 0;
+}
+
+
