@@ -29,7 +29,7 @@ export const doLogin = account => async dispatch => {
             
         }
     } catch (error) {
-        dispatch(loginError(error))
+        dispatch(loginError(error.request.response))
     }
 
 }

@@ -19,7 +19,7 @@ class Login extends Component {
     UNSAFE_componentWillReceiveProps(nextProps) {
         const { loginError, loginSuccess, history } = this.props;
         if(nextProps.loginError && nextProps.loginError !== loginError) {
-            toast.error(nextProps.loginError.message)
+            toast.error(nextProps.loginError)
         }
         if(nextProps.loginSuccess && nextProps.loginSuccess !== loginSuccess) {
             // toast.success("Wellcome back");
