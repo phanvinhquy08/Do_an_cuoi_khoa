@@ -8,7 +8,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background: linear-gradient(360deg, rgba(14,14,14,1) 0%, rgba(8,6,6,0.9) 35%, rgba(84,82,82,0.9) 85%, rgba(252,248,248,0.5) 100%);
+    background: linear-gradient(360deg, rgba(14,14,14,1) 0%, rgba(8,6,6,0.9) 35%, rgba(84,82,82,0.9) 85%, rgba(252,248,248,0.2) 100%);
     z-index: 0;
 }
 .movie-detail .movie-detail-group .container {

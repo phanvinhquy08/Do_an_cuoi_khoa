@@ -28,12 +28,21 @@ export default class CardMovie extends Component {
                         type="button"
                         children="Detail"
                         style={{ transform: "scale(0.9)" }}
-                        onClick={() => history.push("/movies/" + movie.id)}
+                        onClick={() => {
+                            history.push("/movies/" + movie.id)
+                            window.scroll(0,0)
+                        }
+                        }
                     />
                     <CommonButton
                         type="button"
                         children="Book"
                         style={{ transform: "scale(0.9)" }}
+                        onClick={() => {
+                            history.push("/movies/" + movie.id)
+                            window.scroll(0,0)
+                        }
+                        }
                     />
                 </div>}
             </div>

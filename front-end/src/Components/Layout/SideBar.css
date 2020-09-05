@@ -1,0 +1,78 @@
+.side-bar {
+    width: 500px;
+    height: 100vh;
+    position: fixed;
+    right: -520px;
+    top: 0;
+    background: #363431;
+    z-index: 999;
+    transition: 0.5s;
+    font-weight: bold;
+    opacity: 0.97;
+    padding: 16px;
+
+}
+.side-bar h3 {
+    color: #FFF;
+    text-align: center;
+}
+.side-bar h4 {
+    color: #FC8500 ;
+}
+.side-bar .side-bar-content {
+    overflow-x: hidden;
+    overflow-x: auto;
+    max-height: 400px;
+}
+.side-bar.show {
+    right: 0;
+}
+
+.bongMo.show {
+    height: 100vh;
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 998;
+    
+}
+
+.order {
+    display: flex;
+    padding: 16px;
+    background: #212529;
+    margin-bottom: 16px;
+    color: #FFF;
+
+}
+.order .order-img {
+    margin-right: 16px;
+}
+.order .order-img img {
+    width: 100px;
+}
+.order .order-content {
+    flex-grow: 1;
+}
+.order .order-close {
+    color: #FC8500;
+    cursor: pointer;
+}
+.order .order-content ul li {
+    list-style-type: none;
+}
+.order .order-content ul li span {
+    color: #FC8500;
+}
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    border: 1px solid #212529;
+    /* box-shadow: inset 0 0 2.5px 2px rgba(0, 0, 0, 0.7); */
+}
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, rgba(236,176,133,1) 0%, rgba(242,119,24,1) 100%)
+}

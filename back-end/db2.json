@@ -2,6 +2,8 @@
   "movies": [
     {
       "id": 0,
+      "img": "https://i.imgur.com/iu2AjAF.jpg",
+      "banner": "https://i.imgur.com/OvLHikl.jpg",
       "name": "ẨN DANH - SEARCH OUT",
       "time": 93,
       "kind": "Hành động, hồi hộp",
@@ -17,6 +19,8 @@
     },
     {
       "id": 1,
+      "img": "https://i.imgur.com/nlcKv5w.jpg",
+      "banner": "https://i.imgur.com/Dvd0M7Z.jpg",
       "name": "QUỶ LÙN TINH NGHỊCH: CHUYẾN LƯU DIỄN THẾ GIỚI - TROLLS WORLD TOUR",
       "time": 97,
       "kind": "Hoạt hình, gia đình",
@@ -32,6 +36,8 @@
     },
     {
       "id": 2,
+      "img": "https://i.imgur.com/rU3CY3E.jpg",
+      "banner": "https://i.imgur.com/t5hj4Gg.jpg",
       "name": "ÁC QUỶ RỪNG SÂU - BABA YAGA",
       "time": 97,
       "kind": " Kinh dị,Hành động",
@@ -47,6 +53,8 @@
     },
     {
       "id": 3,
+      "img": "https://i.imgur.com/hJlve6j.jpg",
+      "banner": "https://i.imgur.com/LBz20zS.jpg",
       "name": "KẺ ĐÀO TẨU GIẤC MƠ - COMA",
       "time": 120,
       "kind": "Viễn tưởng,Phiêu lưu",
@@ -55,13 +63,15 @@
       "character": "Rinal Mukhametov, Anton Pampushnyy, Lyubov Aksyonova, Miloš Biković, Konstantin Lavronenko",
       "language": "Phụ đề Tiếng Việt",
       "rate": 7.5,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Một kiến trúc sư trẻ tài năng tỉnh dậy sau một tai nạn kinh hoàng và phát hiện rằng anh ta đang lạc trong một thế giới khác kỳ lạ và hỗn loạn. Thế giới đó được gọi là COMA và ở đó những toà nhà, những dòng sông và thành phố đều có thể tồn tại trong cùng một không gian của một căn phòng. Những định luật vật lý anh được học không còn đúng ở thế giới này và bên cạnh việc thích nghi, anh ta còn phải chiến đấu để bảo vệ mạng sống của mình cũng như tìm cách để thoát ra, trở về với thế giới thực..."
     },
     {
       "id": 4,
+      "img": "https://i.imgur.com/KL7CL8D.jpg",
+      "banner": "https://i.imgur.com/UyLvx20.jpg",
       "name": "TRẬN CHIẾN MIDWAY",
       "time": 137,
       "kind": "Hành động",
@@ -70,13 +80,15 @@
       "character": " Ed Skrein, Patrick Wilson, Luke Kleintank, Luke Evans, Woody Harrelson",
       "language": "Phụ đề Tiếng Việt",
       "rate": 8.5,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Trận Chiến Midway lấy bối cảnh trong Thế Chiến thứ 2 sau sự kiện Trân Châu Cảng nổi tiếng, tái hiện trận đánh lịch sử Midway - điểm nóng quan trọng tại Thái Bình Dương"
     },
     {
       "id": 5,
+      "img": "https://i.imgur.com/xIjHq65.jpg",
+      "banner": "https://i.imgur.com/cU5LUeK.jpg",
       "name": "SAMSAM - SAMSAM SIÊU NHÂN TẬP SỰ",
       "time": 137,
       "kind": "Hoạt hình,Gia đình",
@@ -85,13 +97,15 @@
       "character": "Isaac Lobé-Lebel, Lior Chabbat, Jeremy Prevost, Sébastien Desjours, Léopold Vom Dorp",
       "language": "Lồng tiếng Tiếng Việt",
       "rate": 8,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": true,
       "content": "Nhóc tì siêu quậy Samsam có tất cả mọi thứ mà bao đứa trẻ trên hành tinh Sam đều mơ ước: bố mẹ là hai siêu anh hùng nổi tiếng, học tập ở một ngôi trường danh giá chuyên đào tạo các thế hệ siêu nhân tương lai, thậm chí Samsam còn có hẳn một đĩa bay riêng để vi vu khắp nơi khắp chốn. Thế nhưng, cậu bé lại không có chút siêu năng lực nào, hoàn toàn khác biệt với tất cả các thành viên trong gia đình cũng như bạn bè đồng trang lứa. Bố mẹ lo lắng, bè bạn trêu ghẹo, Samsam bắt đầu hành trình tới hành tinh Marth bí ẩn cùng người bạn mới Mega, quyết tâm tìm kiếm sức mạnh ẩn tiềm của bản thân mình."
     },
     {
       "id": 6,
+      "img": "https://i.imgur.com/rsQAJR0.jpg",
+      "banner": "https://i.imgur.com/c6hNu3H.jpg",
       "name": "CĂN PHÒNG ĐẪM MÁU - LINGERING",
       "time": 110,
       "kind": "Kinh dị",
@@ -100,13 +114,15 @@
       "character": "Lee Se-young, Park Ji-young, Park Hyo-ju",
       "language": "Phụ đề Tiếng Việt",
       "rate": 8.5,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Những câu chuyện kỳ lạ xung quanh khách sạn đẫm máu khiến người ta hóa điên. Tại khách sạn này, có 3 điều tuyệt đối không được làm: không được ngước nhìn lên, không được đi một mình và không được bước vào phòng 405."
     },
     {
       "id": 7,
+      "img": "https://i.imgur.com/elYFouO.jpg",
+      "banner": "https://i.imgur.com/F5A4Bg8.jpg",
       "name": "KẺ TRỰC ĐÊM - THE NIGHT CLERK",
       "time": 100,
       "kind": "Kinh dị",
@@ -115,13 +131,15 @@
       "character": "Tye Sheridan, Ana de Armas, Helen Hunt, John Leguizamo, Johnathon Schaech",
       "language": "Phụ đề Tiếng Việt",
       "rate": 7.5,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Bart Bromley là một tiếp tân khách sạn trực ca đêm. Anh trẻ, thông minh nhưng mắc chứng rối loạn lo âu xã hội – rất khó giao tiếp với người khác. Biết chứng bệnh của mình, anh học cử chỉ, hành động và lối ăn nói của người khác ...thông qua các camera an ninh của khách sạn."
     },
     {
       "id": 8,
+      "img": "https://i.imgur.com/uZzKLoD.jpg",
+      "banner": "https://i.imgur.com/hCxzVvB.jpg",
       "name": "TÔI LÀ NÃO CÁ VÀNG",
       "time": 97,
       "kind": "Lãng mạn,Tâm lý",
@@ -130,13 +148,15 @@
       "character": "Khánh Hiền, Thu Trang, La Thành, Tuấn Trần, Kiều Minh Tuấn",
       "language": "Tiếng Việt,Phụ đề Tiếng Anh",
       "rate": 7,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Tôi Là Não Cá Vàng xoay quanh cuộc sống của một nhà thiết kế thời trang xinh đẹp nhưng mắc căn bệnh Alzheimer. Với cô, mỗi ngày đều là một ngày mới vì những ký ức ngày cũ dường như tan biến cả."
     },
     {
       "id": 9,
+      "img": "https://i.imgur.com/jNotrZ3.jpg",
+      "banner": "https://i.imgur.com/eyh8fAJ.jpg",
       "name": "GIA TÀI TỘI LỖI - INHERITANCE",
       "time": 119,
       "kind": "Kinh dị,Ly kỳ",
@@ -145,13 +165,15 @@
       "character": "Lily Collins, Simon Pegg, Connie Nielsen, Chace Crawford, Patrick Warburton",
       "language": "Phụ đề Tiếng Việt",
       "rate": 8,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Lauren Monroe, một luật sư trẻ đầy triển vọng, là con cả của một gia đình giới thượng lưu, bề thế, tưởng như hoàn hảo, tại New York. Khi cha cô đột ngột qua đời, thay vì được thừa hưởng một gia tài kếch xù, cô chị cả Lauren chỉ được trao một chiếc chìa khóa riêng dẫn đến một căn hầm bỏ hoang trong khuôn viên của gia đình. Ngay tại nơi này, cô phát hiện món thừa kế phần mình lại là một người đàn ông bí ẩn bị giam cầm trong nhiều năm ngay dưới căn hầm tối tăm suốt 30 năm qua mà không một ai hay biết."
     },
     {
       "id": 10,
+      "img": "https://i.imgur.com/WRfNgGs.jpg",
+      "banner": "https://i.imgur.com/xLlRy2W.jpg",
       "name": "GIẢI CỨU CÂY ƯỚC NGUYỆN - THE WISHMAS TREE",
       "time": 87,
       "kind": "Phiêu lưu,Hoạt hình",
@@ -160,13 +182,15 @@
       "character": "Miranda Tapsell, Ross Noble, Kate Murphy, Ricard Cussó",
       "language": "Phụ đề Tiếng Việt,Lồng tiếng Tiếng Việt",
       "rate": 7,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": true,
       "content": "Kerry, một cô nàng thú túi nhận được một điều ước và cô đã ước rằng cô có thể có một cây Ước Nguyện màu trắng. Thế nhưng, cách mà cô ước lại hoá sai và tệ hại hơn, nó làm đóng băng toàn bộ thành phố Sanctuary City của cô, còn đe dọa cuộc sống của tất cả những người sống ở đó."
     },
     {
       "id": 11,
+      "img": "https://i.imgur.com/cWsDtKB.jpg",
+      "banner": "https://i.imgur.com/l80BDCw.jpg",
       "name": "BẢN GIAO HƯỞNG MÁU - SONATA",
       "time": 97,
       "kind": "Ly kỳ,Hồi hộp",
@@ -175,28 +199,15 @@
       "character": "Mark Tilley, Larnell Shadd",
       "language": "Phụ đề Tiếng Việt",
       "rate": 7.5,
-      "playing": false,
+      "playing": true,
       "digital2D": true,
       "imax3D": false,
       "content": "Để làm sáng tỏ quá khứ của người cha quá cố, nữ nghệ sĩ violon trẻ tuổi đã vô tình kích hoạt những thế lực đen tối vượt qua trí tưởng tượng bình thường của con người."
     },
     {
       "id": 12,
-      "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
-      "time": 0,
-      "kind": "Hành động,Phiêu lưu",
-      "premiere": "10/06/2020",
-      "author": "Cate Shortland",
-      "character": "Scarlett Johansson, Florence Pugh, David Harbour, O.T. Fagbenle, Rachel Weisz",
-      "language": "Phụ đề Tiếng Việt",
-      "rate": 8.5,
-      "playing": false,
-      "digital2D": true,
-      "imax3D": false,
-      "content": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
-    },
-    {
-      "id": 12,
+      "img": "https://i.imgur.com/71XCK9r.jpg",
+      "banner": "https://i.imgur.com/GuA37YM.jpg",
       "name": "GÓA PHỤ ĐEN - BLACK WIDOW",
       "time": 0,
       "kind": "Hành động,Phiêu lưu",
@@ -212,6 +223,8 @@
     },
     {
       "id": 13,
+      "img": "https://i.imgur.com/21mA6Xd.jpg",
+      "banner": "https://i.imgur.com/QInJnKP.jpg",
       "name": "CHỊ MƯỜI BA 2 - 3 NGÀY SINH TỬ",
       "time": 0,
       "kind": "Hài hước,Hành động,Tâm lý",
@@ -227,6 +240,8 @@
     },
     {
       "id": 14,
+      "img": "https://i.imgur.com/UV02Ck8.jpg",
+      "banner": "https://i.imgur.com/n2D4Szh.jpg",
       "name": "VÙNG ĐẤT CÂM LẶNG 2 - A QUIET PLACE PART II",
       "time": 0,
       "kind": "Hài hước,Hành động,Tâm lý",
@@ -242,6 +257,8 @@
     },
     {
       "id": 15,
+      "img": "https://i.imgur.com/H9jGZIf.jpg",
+      "banner": "https://i.imgur.com/8WK7SiR.jpg",
       "name": "NỮ THẦN CHIẾN BINH 1984 - WONDER WOMAN 1984",
       "time": 0,
       "kind": "Hành động,Phiêu lưu",
@@ -257,6 +274,8 @@
     },
     {
       "id": 16,
+      "img": "https://i.imgur.com/vj4vgFH.jpg",
+      "banner": "https://i.imgur.com/PRrYjYv.jpg",
       "name": "KẺ XÂM NHẬP - INTRUDER",
       "time": 0,
       "kind": "Kinh dị,Ly kỳ",
@@ -272,6 +291,8 @@
     },
     {
       "id": 17,
+      "img": "https://i.imgur.com/gWrggTY.jpg",
+      "banner": "https://i.imgur.com/sO9bRDP.jpg",
       "name": "SÓI 100% - 100% WOLF",
       "time": 0,
       "kind": "Hoạt hình,Gia đình",
@@ -287,6 +308,8 @@
     },
     {
       "id": 18,
+      "img": "https://i.imgur.com/tvtitWa.jpg",
+      "banner": "https://i.imgur.com/K8eRME4.jpg",
       "name": "TRÙNG QUỶ ĐẠI DƯƠNG - SEA FEVER",
       "time": 91,
       "kind": "Kinh dị,Hành động,Viễn tưởng",
@@ -302,6 +325,8 @@
     },
     {
       "id": 19,
+      "img": "https://i.imgur.com/UTHgWlT.jpg",
+      "banner": "https://i.imgur.com/UeeECk3.jpg",
       "name": "CƠN MƯA TÌNH ĐẦU - CLASSIC AGAIN",
       "time": 121,
       "kind": "Lãng mạn,Tâm lý",
@@ -316,77 +341,103 @@
       "content": "Cơn Mưa Tình Đầu là sự đan xen của hai câu chuyện tình yêu cách nhau 3 thập kỷ. Bota và cô bạn thân Poppy cùng cảm nắng Non – một anh bạn cùng trường đại học. Hiểu tấm lòng của người bạn thân, Bota giấu đi cảm xúc thật của mình để cổ vũ Poppy đến với Non. Một ngày, Bota tình cờ tìm thấy chiếc hộp cũ chứa đầy những lá thư và kỷ niệm về mối tình đầu của mẹ. Những bức thư giữa mẹ cô, Dalah và một chàng trai nhà nghèo tên Kajorn khiến Bota nhận ra cảm xúc hiện tại của mình thật giống với câu chuyện tình dở dang của mẹ. Liệu cô có dũng cảm giữ lấy tình yêu của mình hay mối tình đầu của Bota cũng sẽ kết thúc đầy tiếc nuối?"
     }
   ],
+  "days": [
+    {
+      "id": 0,
+      "date": "SAT"
+    },
+    {
+      "id": 1,
+      "date": "SUN"
+    },
+    {
+      "id": 2,
+      "date": "MON"
+    }
+  ],
   "schedules": [
     {
       "id": 0,
       "movieId": 0,
-      "start": "13:30 7/11/2020",
+      "start": "13:30",
+      "dayId": 0,
       "room": 1
     },
     {
       "id": 1,
       "movieId": 0,
-      "start": "17:00 7/11/2020",
+      "start": "17:00",
+      "dayId": 0,
       "room": 1
     },
     {
       "id": 2,
-      "movieId": 1,
-      "start": "15:30 7/11/2020",
+      "movieId": 0,
+      "start": "15:30",
+      "dayId": 0,
       "room": 2
     },
     {
       "id": 3,
-      "movieId": 1,
-      "start": "19:00 7/11/2020",
+      "movieId": 0,
+      "start": "19:00",
+      "dayId": 1,
       "room": 2
     },
     {
       "id": 4,
       "movieId": 2,
-      "start": "15:30 7/12/2020",
+      "start": "15:30",
+      "dayId": 1,
       "room": 1
     },
     {
       "id": 5,
       "movieId": 2,
-      "start": "19:00 7/12/2020",
+      "start": "19:00",
+      "dayId": 1,
       "room": 1
     },
     {
       "id": 6,
       "movieId": 3,
-      "start": "18:30 7/12/2020",
+      "start": "18:30",
+      "dayId": 1,
       "room": 2
     },
     {
       "id": 7,
       "movieId": 3,
-      "start": "21:30 7/12/2020",
+      "start": "21:30",
+      "dayId": 1,
       "room": 2
     },
     {
       "id": 8,
       "movieId": 4,
-      "start": "13:40 7/13/2020",
+      "start": "13:40",
+      "dayId": 2,
       "room": 1
     },
     {
       "id": 9,
       "movieId": 4,
-      "start": "22:40 7/13/2020",
+      "start": "22:40",
+      "dayId": 2,
       "room": 1
     },
     {
       "id": 10,
       "movieId": 5,
-      "start": "18:30 7/13/2020",
+      "start": "18:30",
+      "dayId": 2,
       "room": 2
     },
     {
       "id": 11,
       "movieId": 5,
-      "start": "21:30 7/13/2020",
+      "start": "21:30",
+      "dayId": 2,
       "room": 2
     }
   ],
@@ -515,902 +566,902 @@
   "tickets": [
     {
       "id": 0,
-      "idSchedule": 0,
-      "idSeat": 0,
+      "scheduleId": 0,
+      "seatId": 0,
       "price": 45000
     },
     {
       "id": 1,
-      "idSchedule": 0,
-      "idSeat": 1,
+      "scheduleId": 0,
+      "seatId": 1,
       "price": 45000
     },
     {
       "id": 2,
-      "idSchedule": 0,
-      "idSeat": 2,
+      "scheduleId": 0,
+      "seatId": 2,
       "price": 45000
     },
     {
       "id": 3,
-      "idSchedule": 0,
-      "idSeat": 3,
+      "scheduleId": 0,
+      "seatId": 3,
       "price": 45000
     },
     {
       "id": 4,
-      "idSchedule": 0,
-      "idSeat": 4,
+      "scheduleId": 0,
+      "seatId": 4,
       "price": 45000
     },
     {
       "id": 5,
-      "idSchedule": 0,
-      "idSeat": 5,
+      "scheduleId": 0,
+      "seatId": 5,
       "price": 45000
     },
     {
       "id": 6,
-      "idSchedule": 0,
-      "idSeat": 6,
+      "scheduleId": 0,
+      "seatId": 6,
       "price": 45000
     },
     {
       "id": 7,
-      "idSchedule": 0,
-      "idSeat": 7,
+      "scheduleId": 0,
+      "seatId": 7,
       "price": 45000
     },
     {
       "id": 8,
-      "idSchedule": 0,
-      "idSeat": 8,
+      "scheduleId": 0,
+      "seatId": 8,
       "price": 45000
     },
     {
       "id": 9,
-      "idSchedule": 0,
-      "idSeat": 9,
+      "scheduleId": 0,
+      "seatId": 9,
       "price": 45000
     },
     {
       "id": 10,
-      "idSchedule": 0,
-      "idSeat": 10,
+      "scheduleId": 0,
+      "seatId": 10,
       "price": 45000
     },
     {
       "id": 11,
-      "idSchedule": 0,
-      "idSeat": 11,
+      "scheduleId": 0,
+      "seatId": 11,
       "price": 45000
     },
     {
       "id": 12,
-      "idSchedule": 0,
-      "idSeat": 12,
+      "scheduleId": 0,
+      "seatId": 12,
       "price": 45000
     },
     {
       "id": 13,
-      "idSchedule": 0,
-      "idSeat": 13,
+      "scheduleId": 0,
+      "seatId": 13,
       "price": 45000
     },
     {
       "id": 14,
-      "idSchedule": 0,
-      "idSeat": 14,
+      "scheduleId": 0,
+      "seatId": 14,
       "price": 45000
     },
     {
       "id": 15,
-      "idSchedule": 0,
-      "idSeat": 15,
+      "scheduleId": 0,
+      "seatId": 15,
       "price": 45000
     },
     {
       "id": 16,
-      "idSchedule": 0,
-      "idSeat": 16,
+      "scheduleId": 0,
+      "seatId": 16,
       "price": 45000
     },
     {
       "id": 17,
-      "idSchedule": 0,
-      "idSeat": 17,
+      "scheduleId": 0,
+      "seatId": 17,
       "price": 45000
     },
     {
       "id": 18,
-      "idSchedule": 0,
-      "idSeat": 18,
+      "scheduleId": 0,
+      "seatId": 18,
       "price": 45000
     },
     {
       "id": 19,
-      "idSchedule": 0,
-      "idSeat": 19,
+      "scheduleId": 0,
+      "seatId": 19,
       "price": 45000
     },
     {
       "id": 20,
-      "idSchedule": 0,
-      "idSeat": 20,
+      "scheduleId": 0,
+      "seatId": 20,
       "price": 45000
     },
     {
       "id": 21,
-      "idSchedule": 0,
-      "idSeat": 21,
+      "scheduleId": 0,
+      "seatId": 21,
       "price": 45000
     },
     {
       "id": 22,
-      "idSchedule": 0,
-      "idSeat": 22,
+      "scheduleId": 0,
+      "seatId": 22,
       "price": 45000
     },
     {
       "id": 23,
-      "idSchedule": 0,
-      "idSeat": 23,
+      "scheduleId": 0,
+      "seatId": 23,
       "price": 45000
     },
     {
       "id": 24,
-      "idSchedule": 0,
-      "idSeat": 24,
+      "scheduleId": 0,
+      "seatId": 24,
       "price": 45000
     },
     {
       "id": 25,
-      "idSchedule": 0,
-      "idSeat": 25,
+      "scheduleId": 0,
+      "seatId": 25,
       "price": 45000
     },
     {
       "id": 26,
-      "idSchedule": 0,
-      "idSeat": 26,
+      "scheduleId": 0,
+      "seatId": 26,
       "price": 45000
     },
     {
       "id": 27,
-      "idSchedule": 0,
-      "idSeat": 27,
+      "scheduleId": 0,
+      "seatId": 27,
       "price": 45000
     },
     {
       "id": 28,
-      "idSchedule": 0,
-      "idSeat": 28,
+      "scheduleId": 0,
+      "seatId": 28,
       "price": 45000
     },
     {
       "id": 29,
-      "idSchedule": 0,
-      "idSeat": 29,
+      "scheduleId": 0,
+      "seatId": 29,
       "price": 45000
     },
     {
       "id": 30,
-      "idSchedule": 1,
-      "idSeat": 0,
+      "scheduleId": 1,
+      "seatId": 0,
       "price": 50000
     },
     {
       "id": 31,
-      "idSchedule": 1,
-      "idSeat": 1,
+      "scheduleId": 1,
+      "seatId": 1,
       "price": 50000
     },
     {
       "id": 32,
-      "idSchedule": 1,
-      "idSeat": 2,
+      "scheduleId": 1,
+      "seatId": 2,
       "price": 50000
     },
     {
       "id": 33,
-      "idSchedule": 1,
-      "idSeat": 3,
+      "scheduleId": 1,
+      "seatId": 3,
       "price": 50000
     },
     {
       "id": 34,
-      "idSchedule": 1,
-      "idSeat": 4,
+      "scheduleId": 1,
+      "seatId": 4,
       "price": 50000
     },
     {
       "id": 35,
-      "idSchedule": 1,
-      "idSeat": 5,
+      "scheduleId": 1,
+      "seatId": 5,
       "price": 50000
     },
     {
       "id": 36,
-      "idSchedule": 1,
-      "idSeat": 6,
+      "scheduleId": 1,
+      "seatId": 6,
       "price": 50000
     },
     {
       "id": 37,
-      "idSchedule": 1,
-      "idSeat": 7,
+      "scheduleId": 1,
+      "seatId": 7,
       "price": 50000
     },
     {
       "id": 38,
-      "idSchedule": 1,
-      "idSeat": 8,
+      "scheduleId": 1,
+      "seatId": 8,
       "price": 50000
     },
     {
       "id": 39,
-      "idSchedule": 1,
-      "idSeat": 9,
+      "scheduleId": 1,
+      "seatId": 9,
       "price": 50000
     },
     {
       "id": 40,
-      "idSchedule": 1,
-      "idSeat": 10,
+      "scheduleId": 1,
+      "seatId": 10,
       "price": 50000
     },
     {
       "id": 41,
-      "idSchedule": 1,
-      "idSeat": 11,
+      "scheduleId": 1,
+      "seatId": 11,
       "price": 50000
     },
     {
       "id": 42,
-      "idSchedule": 1,
-      "idSeat": 12,
+      "scheduleId": 1,
+      "seatId": 12,
       "price": 50000
     },
     {
       "id": 43,
-      "idSchedule": 1,
-      "idSeat": 13,
+      "scheduleId": 1,
+      "seatId": 13,
       "price": 50000
     },
     {
       "id": 44,
-      "idSchedule": 1,
-      "idSeat": 14,
+      "scheduleId": 1,
+      "seatId": 14,
       "price": 50000
     },
     {
       "id": 45,
-      "idSchedule": 1,
-      "idSeat": 15,
+      "scheduleId": 1,
+      "seatId": 15,
       "price": 50000
     },
     {
       "id": 46,
-      "idSchedule": 1,
-      "idSeat": 16,
+      "scheduleId": 1,
+      "seatId": 16,
       "price": 50000
     },
     {
       "id": 47,
-      "idSchedule": 1,
-      "idSeat": 17,
+      "scheduleId": 1,
+      "seatId": 17,
       "price": 50000
     },
     {
       "id": 48,
-      "idSchedule": 1,
-      "idSeat": 18,
+      "scheduleId": 1,
+      "seatId": 18,
       "price": 50000
     },
     {
       "id": 49,
-      "idSchedule": 1,
-      "idSeat": 19,
+      "scheduleId": 1,
+      "seatId": 19,
       "price": 50000
     },
     {
       "id": 50,
-      "idSchedule": 1,
-      "idSeat": 20,
+      "scheduleId": 1,
+      "seatId": 20,
       "price": 50000
     },
     {
       "id": 51,
-      "idSchedule": 1,
-      "idSeat": 21,
+      "scheduleId": 1,
+      "seatId": 21,
       "price": 50000
     },
     {
       "id": 52,
-      "idSchedule": 1,
-      "idSeat": 22,
+      "scheduleId": 1,
+      "seatId": 22,
       "price": 50000
     },
     {
       "id": 53,
-      "idSchedule": 1,
-      "idSeat": 23,
+      "scheduleId": 1,
+      "seatId": 23,
       "price": 50000
     },
     {
       "id": 54,
-      "idSchedule": 1,
-      "idSeat": 24,
+      "scheduleId": 1,
+      "seatId": 24,
       "price": 50000
     },
     {
       "id": 55,
-      "idSchedule": 1,
-      "idSeat": 25,
+      "scheduleId": 1,
+      "seatId": 25,
       "price": 50000
     },
     {
       "id": 56,
-      "idSchedule": 1,
-      "idSeat": 26,
+      "scheduleId": 1,
+      "seatId": 26,
       "price": 50000
     },
     {
       "id": 57,
-      "idSchedule": 1,
-      "idSeat": 27,
+      "scheduleId": 1,
+      "seatId": 27,
       "price": 50000
     },
     {
       "id": 58,
-      "idSchedule": 1,
-      "idSeat": 28,
+      "scheduleId": 1,
+      "seatId": 28,
       "price": 50000
     },
     {
       "id": 59,
-      "idSchedule": 1,
-      "idSeat": 29,
+      "scheduleId": 1,
+      "seatId": 29,
       "price": 50000
     },
     {
       "id": 60,
-      "idSchedule": 2,
-      "idSeat": 0,
+      "scheduleId": 2,
+      "seatId": 0,
       "price": 40000
     },
     {
       "id": 61,
-      "idSchedule": 2,
-      "idSeat": 1,
+      "scheduleId": 2,
+      "seatId": 1,
       "price": 40000
     },
     {
       "id": 62,
-      "idSchedule": 2,
-      "idSeat": 2,
+      "scheduleId": 2,
+      "seatId": 2,
       "price": 40000
     },
     {
       "id": 63,
-      "idSchedule": 2,
-      "idSeat": 3,
+      "scheduleId": 2,
+      "seatId": 3,
       "price": 40000
     },
     {
       "id": 64,
-      "idSchedule": 2,
-      "idSeat": 4,
+      "scheduleId": 2,
+      "seatId": 4,
       "price": 40000
     },
     {
       "id": 65,
-      "idSchedule": 2,
-      "idSeat": 5,
+      "scheduleId": 2,
+      "seatId": 5,
       "price": 40000
     },
     {
       "id": 66,
-      "idSchedule": 2,
-      "idSeat": 6,
+      "scheduleId": 2,
+      "seatId": 6,
       "price": 40000
     },
     {
       "id": 67,
-      "idSchedule": 2,
-      "idSeat": 7,
+      "scheduleId": 2,
+      "seatId": 7,
       "price": 40000
     },
     {
       "id": 68,
-      "idSchedule": 2,
-      "idSeat": 8,
+      "scheduleId": 2,
+      "seatId": 8,
       "price": 40000
     },
     {
       "id": 69,
-      "idSchedule": 2,
-      "idSeat": 9,
+      "scheduleId": 2,
+      "seatId": 9,
       "price": 40000
     },
     {
       "id": 70,
-      "idSchedule": 2,
-      "idSeat": 10,
+      "scheduleId": 2,
+      "seatId": 10,
       "price": 40000
     },
     {
       "id": 71,
-      "idSchedule": 2,
-      "idSeat": 11,
+      "scheduleId": 2,
+      "seatId": 11,
       "price": 40000
     },
     {
       "id": 72,
-      "idSchedule": 2,
-      "idSeat": 12,
+      "scheduleId": 2,
+      "seatId": 12,
       "price": 40000
     },
     {
       "id": 73,
-      "idSchedule": 2,
-      "idSeat": 13,
+      "scheduleId": 2,
+      "seatId": 13,
       "price": 40000
     },
     {
       "id": 74,
-      "idSchedule": 2,
-      "idSeat": 14,
+      "scheduleId": 2,
+      "seatId": 14,
       "price": 40000
     },
     {
       "id": 75,
-      "idSchedule": 2,
-      "idSeat": 15,
+      "scheduleId": 2,
+      "seatId": 15,
       "price": 40000
     },
     {
       "id": 76,
-      "idSchedule": 2,
-      "idSeat": 16,
+      "scheduleId": 2,
+      "seatId": 16,
       "price": 40000
     },
     {
       "id": 77,
-      "idSchedule": 2,
-      "idSeat": 17,
+      "scheduleId": 2,
+      "seatId": 17,
       "price": 40000
     },
     {
       "id": 78,
-      "idSchedule": 2,
-      "idSeat": 18,
+      "scheduleId": 2,
+      "seatId": 18,
       "price": 40000
     },
     {
       "id": 79,
-      "idSchedule": 2,
-      "idSeat": 19,
+      "scheduleId": 2,
+      "seatId": 19,
       "price": 40000
     },
     {
       "id": 80,
-      "idSchedule": 2,
-      "idSeat": 20,
+      "scheduleId": 2,
+      "seatId": 20,
       "price": 40000
     },
     {
       "id": 81,
-      "idSchedule": 2,
-      "idSeat": 21,
+      "scheduleId": 2,
+      "seatId": 21,
       "price": 40000
     },
     {
       "id": 82,
-      "idSchedule": 2,
-      "idSeat": 22,
+      "scheduleId": 2,
+      "seatId": 22,
       "price": 40000
     },
     {
       "id": 83,
-      "idSchedule": 2,
-      "idSeat": 23,
+      "scheduleId": 2,
+      "seatId": 23,
       "price": 40000
     },
     {
       "id": 84,
-      "idSchedule": 2,
-      "idSeat": 24,
+      "scheduleId": 2,
+      "seatId": 24,
       "price": 40000
     },
     {
       "id": 85,
-      "idSchedule": 2,
-      "idSeat": 25,
+      "scheduleId": 2,
+      "seatId": 25,
       "price": 40000
     },
     {
       "id": 86,
-      "idSchedule": 2,
-      "idSeat": 26,
+      "scheduleId": 2,
+      "seatId": 26,
       "price": 40000
     },
     {
       "id": 87,
-      "idSchedule": 2,
-      "idSeat": 27,
+      "scheduleId": 2,
+      "seatId": 27,
       "price": 40000
     },
     {
       "id": 88,
-      "idSchedule": 2,
-      "idSeat": 28,
+      "scheduleId": 2,
+      "seatId": 28,
       "price": 40000
     },
     {
       "id": 89,
-      "idSchedule": 2,
-      "idSeat": 29,
+      "scheduleId": 2,
+      "seatId": 29,
       "price": 40000
     },
     {
       "id": 90,
-      "idSchedule": 3,
-      "idSeat": 0,
+      "scheduleId": 3,
+      "seatId": 0,
       "price": 55000
     },
     {
       "id": 91,
-      "idSchedule": 3,
-      "idSeat": 1,
+      "scheduleId": 3,
+      "seatId": 1,
       "price": 55000
     },
     {
       "id": 92,
-      "idSchedule": 3,
-      "idSeat": 2,
+      "scheduleId": 3,
+      "seatId": 2,
       "price": 55000
     },
     {
       "id": 93,
-      "idSchedule": 3,
-      "idSeat": 3,
+      "scheduleId": 3,
+      "seatId": 3,
       "price": 55000
     },
     {
       "id": 94,
-      "idSchedule": 3,
-      "idSeat": 4,
+      "scheduleId": 3,
+      "seatId": 4,
       "price": 55000
     },
     {
       "id": 95,
-      "idSchedule": 3,
-      "idSeat": 5,
+      "scheduleId": 3,
+      "seatId": 5,
       "price": 55000
     },
     {
       "id": 96,
-      "idSchedule": 3,
-      "idSeat": 6,
+      "scheduleId": 3,
+      "seatId": 6,
       "price": 55000
     },
     {
       "id": 97,
-      "idSchedule": 3,
-      "idSeat": 7,
+      "scheduleId": 3,
+      "seatId": 7,
       "price": 55000
     },
     {
       "id": 98,
-      "idSchedule": 3,
-      "idSeat": 8,
+      "scheduleId": 3,
+      "seatId": 8,
       "price": 55000
     },
     {
       "id": 99,
-      "idSchedule": 3,
-      "idSeat": 9,
+      "scheduleId": 3,
+      "seatId": 9,
       "price": 55000
     },
     {
       "id": 100,
-      "idSchedule": 3,
-      "idSeat": 10,
+      "scheduleId": 3,
+      "seatId": 10,
       "price": 55000
     },
     {
       "id": 101,
-      "idSchedule": 3,
-      "idSeat": 11,
+      "scheduleId": 3,
+      "seatId": 11,
       "price": 55000
     },
     {
       "id": 102,
-      "idSchedule": 3,
-      "idSeat": 12,
+      "scheduleId": 3,
+      "seatId": 12,
       "price": 55000
     },
     {
       "id": 103,
-      "idSchedule": 3,
-      "idSeat": 13,
+      "scheduleId": 3,
+      "seatId": 13,
       "price": 55000
     },
     {
       "id": 104,
-      "idSchedule": 3,
-      "idSeat": 14,
+      "scheduleId": 3,
+      "seatId": 14,
       "price": 55000
     },
     {
       "id": 105,
-      "idSchedule": 3,
-      "idSeat": 15,
+      "scheduleId": 3,
+      "seatId": 15,
       "price": 55000
     },
     {
       "id": 106,
-      "idSchedule": 3,
-      "idSeat": 16,
+      "scheduleId": 3,
+      "seatId": 16,
       "price": 55000
     },
     {
       "id": 107,
-      "idSchedule": 3,
-      "idSeat": 17,
+      "scheduleId": 3,
+      "seatId": 17,
       "price": 55000
     },
     {
       "id": 108,
-      "idSchedule": 3,
-      "idSeat": 18,
+      "scheduleId": 3,
+      "seatId": 18,
       "price": 55000
     },
     {
       "id": 109,
-      "idSchedule": 3,
-      "idSeat": 19,
+      "scheduleId": 3,
+      "seatId": 19,
       "price": 55000
     },
     {
       "id": 110,
-      "idSchedule": 3,
-      "idSeat": 20,
+      "scheduleId": 3,
+      "seatId": 20,
       "price": 55000
     },
     {
       "id": 111,
-      "idSchedule": 3,
-      "idSeat": 21,
+      "scheduleId": 3,
+      "seatId": 21,
       "price": 55000
     },
     {
       "id": 112,
-      "idSchedule": 3,
-      "idSeat": 22,
+      "scheduleId": 3,
+      "seatId": 22,
       "price": 55000
     },
     {
       "id": 113,
-      "idSchedule": 3,
-      "idSeat": 23,
+      "scheduleId": 3,
+      "seatId": 23,
       "price": 55000
     },
     {
       "id": 114,
-      "idSchedule": 3,
-      "idSeat": 24,
+      "scheduleId": 3,
+      "seatId": 24,
       "price": 55000
     },
     {
       "id": 115,
-      "idSchedule": 3,
-      "idSeat": 25,
+      "scheduleId": 3,
+      "seatId": 25,
       "price": 55000
     },
     {
       "id": 116,
-      "idSchedule": 3,
-      "idSeat": 26,
+      "scheduleId": 3,
+      "seatId": 26,
       "price": 55000
     },
     {
       "id": 117,
-      "idSchedule": 3,
-      "idSeat": 27,
+      "scheduleId": 3,
+      "seatId": 27,
       "price": 55000
     },
     {
       "id": 118,
-      "idSchedule": 3,
-      "idSeat": 28,
+      "scheduleId": 3,
+      "seatId": 28,
       "price": 55000
     },
     {
       "id": 119,
-      "idSchedule": 3,
-      "idSeat": 29,
+      "scheduleId": 3,
+      "seatId": 29,
       "price": 55000
     },
     {
       "id": 120,
-      "idSchedule" : 4,
-      "idSeat": 0,
+      "scheduleId" : 4,
+      "seatId": 0,
       "price": 56000
     },
     {
       "id": 121,
-      "idSchedule" : 4,
-      "idSeat": 1,
+      "scheduleId" : 4,
+      "seatId": 1,
       "price": 56000
     },
     {
       "id": 122,
-      "idSchedule" : 4,
-      "idSeat": 2,
+      "scheduleId" : 4,
+      "seatId": 2,
       "price": 56000
     },
     {
       "id": 123,
-      "idSchedule" : 4,
-      "idSeat": 3,
+      "scheduleId" : 4,
+      "seatId": 3,
       "price": 56000
     },
     {
       "id": 124,
-      "idSchedule" : 4,
-      "idSeat": 4,
+      "scheduleId" : 4,
+      "seatId": 4,
       "price": 56000
     },
     {
       "id": 125,
-      "idSchedule" : 4,
-      "idSeat": 5,
+      "scheduleId" : 4,
+      "seatId": 5,
       "price": 56000
     },
     {
       "id": 126,
-      "idSchedule" : 4,
-      "idSeat": 6,
+      "scheduleId" : 4,
+      "seatId": 6,
       "price": 56000
     },
     {
       "id": 127,
-      "idSchedule" : 4,
-      "idSeat": 7,
+      "scheduleId" : 4,
+      "seatId": 7,
       "price": 56000
     },
     {
       "id": 128,
-      "idSchedule" : 4,
-      "idSeat": 8,
+      "scheduleId" : 4,
+      "seatId": 8,
       "price": 56000
     },
     {
       "id": 129,
-      "idSchedule" : 4,
-      "idSeat": 9,
+      "scheduleId" : 4,
+      "seatId": 9,
       "price": 56000
     },
     {
       "id": 130,
-      "idSchedule" : 4,
-      "idSeat": 10,
+      "scheduleId" : 4,
+      "seatId": 10,
       "price": 56000
     },
     {
       "id": 131,
-      "idSchedule" : 4,
-      "idSeat": 11,
+      "scheduleId" : 4,
+      "seatId": 11,
       "price": 56000
     },
     {
       "id": 132,
-      "idSchedule" : 4,
-      "idSeat": 12,
+      "scheduleId" : 4,
+      "seatId": 12,
       "price": 56000
     },
     {
       "id": 133,
-      "idSchedule" : 4,
-      "idSeat": 13,
+      "scheduleId" : 4,
+      "seatId": 13,
       "price": 56000
     },
     {
       "id": 134,
-      "idSchedule" : 4,
-      "idSeat": 14,
+      "scheduleId" : 4,
+      "seatId": 14,
       "price": 56000
     },
     {
       "id": 135,
-      "idSchedule" : 4,
-      "idSeat": 15,
+      "scheduleId" : 4,
+      "seatId": 15,
       "price": 56000
     },
     {
       "id": 136,
-      "idSchedule" : 4,
-      "idSeat": 16,
+      "scheduleId" : 4,
+      "seatId": 16,
       "price": 56000
     },
     {
       "id": 137,
-      "idSchedule" : 4,
-      "idSeat": 17,
+      "scheduleId" : 4,
+      "seatId": 17,
       "price": 56000
     },
     {
       "id": 138,
-      "idSchedule" : 4,
-      "idSeat": 18,
+      "scheduleId" : 4,
+      "seatId": 18,
       "price": 56000
     },
     {
       "id": 139,
-      "idSchedule" : 4,
-      "idSeat": 19,
+      "scheduleId" : 4,
+      "seatId": 19,
       "price": 56000
     },
     {
       "id": 140,
-      "idSchedule" : 4,
-      "idSeat": 20,
+      "scheduleId" : 4,
+      "seatId": 20,
       "price": 56000
     },
     {
       "id": 141,
-      "idSchedule" : 4,
-      "idSeat": 21,
+      "scheduleId" : 4,
+      "seatId": 21,
       "price": 56000
     },
     {
       "id": 142,
-      "idSchedule" : 4,
-      "idSeat": 22,
+      "scheduleId" : 4,
+      "seatId": 22,
       "price": 56000
     },
     {
       "id": 143,
-      "idSchedule" : 4,
-      "idSeat": 23,
+      "scheduleId" : 4,
+      "seatId": 23,
       "price": 56000
     },
     {
       "id": 144,
-      "idSchedule" : 4,
-      "idSeat": 24,
+      "scheduleId" : 4,
+      "seatId": 24,
       "price": 56000
     },
     {
       "id": 145,
-      "idSchedule" : 4,
-      "idSeat": 25,
+      "scheduleId" : 4,
+      "seatId": 25,
       "price": 56000
     },
     {
       "id": 146,
-      "idSchedule" : 4,
-      "idSeat": 26,
+      "scheduleId" : 4,
+      "seatId": 26,
       "price": 56000
     },
     {
       "id": 147,
-      "idSchedule" : 4,
-      "idSeat": 27,
+      "scheduleId" : 4,
+      "seatId": 27,
       "price": 56000
     },
     {
       "id": 148,
-      "idSchedule" : 4,
-      "idSeat": 28,
+      "scheduleId" : 4,
+      "seatId": 28,
       "price": 56000
     },
     {
       "id": 149,
-      "idSchedule" : 4,
-      "idSeat": 29,
+      "scheduleId" : 4,
+      "seatId": 29,
       "price": 56000
     }
 
@@ -1418,51 +1469,22 @@
   "users": [
     {
       "id": 0,
-      "username": "username0",
-      "password": "username0",
-      "name": "Võ Đức Khoa",
-      "birthday": "28/10/1998",
-      "gender": true,
-      "passport": "123456789",
-      "phone": "666666666",
-      "address": "1215 Nguyễn Tất Thành",
-      "country": "Đà Nẵng",
-      "state": "Thanh Khe",
-      "admin": false,
-      "user": true
+      "name": "abc",
+      "email": "anb",
+      "password": "ahdasf"
     },
     {
-      "id": 1,
-      "username": "username1",
-      "password": "username1",
-      "name": "Nguyễn Trung Tín",
-      "birthday": "0/0/2000",
-      "gender": true,
-      "passport": "0000000000",
-      "phone": "777777777",
-      "address": "Kiến Trúc Xa Phía Tây",
-      "country": "Đà Nẵng",
-      "state": "Liên Chiểu",
-      "admin": false,
-      "user": true
+      "email": "quy@gmail.com",
+      "password": "$2a$10$GAAEo3iCylWd6Jb98cRZtuit6cj1JrYl105YlG1as/F7jcsxWRNau",
+      "name": "quy",
+      "id": 1
     },
     {
-      "id": 2,
-      "username": "username2",
-      "password": "username2",
-      "name": "Phan Vinh Quý",
-      "birthday": "0/0/1993",
-      "gender": true,
-      "passport": "111111111",
-      "phone": "555555555",
-      "address": "......",
-      "country": "Đà Nẵng",
-      "state": "Hòa Khánh",
-      "admin": false,
-      "user": true
+      "email": "quy.120993@gmail.com",
+      "password": "$2a$10$zMFr57/nQCTQZaQoqvz1xO5NVvn5J28Xll0SeF4iYmgQRm2RT9uge",
+      "id": 2
     }
   ],
   "orders": [
-  ],
-  "news": []
+  ]
 }

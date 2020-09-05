@@ -1,0 +1,70 @@
+.booking-detail {
+    position: relative;
+    height: 100vh;
+}
+.booking-detail .booking-detail-blur {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(360deg, rgba(14,14,14,1) 0%, rgba(8,6,6,0.9) 35%, rgba(84,82,82,0.9) 85%, rgba(252,248,248,0.2) 100%);
+    z-index: 0;
+}
+.booking-detail .booking-detail-group .container {
+    display: flex;
+    padding-top: 150px;
+}
+.booking-detail-content {
+    padding-left: 100px;
+    color: #FFF ;
+    z-index: 9;
+}
+.booking-detail-time {
+    display: flex;
+}
+.booking-detail-time p {
+    margin-right: 20px;
+    /* margin-bottom: 0; */
+}
+.booking-detail-time p i {
+    margin-right: 8px;
+    color: #FC8500;
+}
+.booking-seats .seat{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background: #FFF;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.booking-seats  .seat:hover {
+    background: #FC8500;
+}
+.screen {
+    margin-bottom: 20px;
+    text-align: center;
+    background: rgb(252,248,248);
+    background: linear-gradient(360deg, rgba(252,248,248,1) 4%, rgba(84,82,82,1) 100%);
+    box-shadow: 5px 10px 20px rgba(255,255,255,1);
+    height: 4px;
+}
+.booking-instruction {
+    margin-left: 30px;
+}
+.booking-instruction>div {
+    display: flex;
+    align-items: center;
+}
+.booking-instruction>div>div {
+    margin-right: 8px;
+}
+.taken {
+    background: #111 !important;
+}
+.select {
+    background: #FC8500 !important;
+}

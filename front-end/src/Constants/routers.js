@@ -10,6 +10,7 @@ import NewsDetail from '../Pages/NewsDetail';
 import Login from '../Pages/Login';
 import Register from '../Pages/Register';
 import RegisterSuccess from '../Pages/RegisterSuccess';
+import AdminMovies from '../Pages/Admin.Movies';
 
 const routers = [
     {
@@ -33,7 +34,7 @@ const routers = [
         component: (props) => <MovieDetail {...props}/>
     },
     {
-        path: "/booking",
+        path: "/booking/:id/:date/:start",
         component: (props) => <Booking {...props}/>
     },
     {
@@ -47,6 +48,10 @@ const routers = [
     {
         path: "/login",
         component: (props) => <Login {...props}/>
+    },
+    {
+        path: "/admin/movies",
+        component: (props) => <AdminMovies {...props}/>
     },
     {
         path: "/",

@@ -2,7 +2,7 @@ button {
     background: rgb(236,176,133);
     background: linear-gradient(45deg, rgba(236,176,133,1) 0%, rgba(242,119,24,1) 100%);
     outline: none;
-    border-radius: 20px !important;
+    border-radius: 4px !important;
     padding: 6px 20px;
     border: none !important;
     font-weight: bold !important;

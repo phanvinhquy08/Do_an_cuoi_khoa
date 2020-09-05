@@ -52,7 +52,7 @@ class Register extends Component {
         return (
             register ? <Loading /> :
                 <div className="register">
-                    <Container style={{ marginTop: "100px" }}>
+                    <Container style={{ paddingTop: "100px" }}>
                         <form onSubmit={this.onSubmit}>
                             <CommonInput
                                 label="Email"

@@ -1,0 +1,30 @@
+.admin-movie {
+    padding-top: 100px;
+    min-height: 100vh;
+}
+.admin-movie .nav-tabs {
+    border-color: #FC8500 ;
+}
+.admin-movie .nav-tabs .nav-link {
+    color: #FC8500;
+}
+.admin-movie .nav-tabs .nav-link.active {
+    background: #FC8500;
+    border-color: #FC8500;
+    color: #FFF;
+}
+.admin-movie .table {
+    color: #FFF;
+    border-color: #FC8500;
+}
+.admin-movie .table th {
+    border-top: 1px solid #FC8500 !important;
+    border-bottom: 1px solid #FC8500 !important;
+
+}
+.admin-movie .table td {
+    border-top: 1px solid #FC8500 !important;
+}
+.admin-movie .admin-action {
+    display: flex;
+}

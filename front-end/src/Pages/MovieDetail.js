@@ -6,6 +6,11 @@ import * as act from '../Action/movies.action';
 import Loading from '../Components/Common/Loading';
 import CardMovie from '../Components/Movies/CardMovie';
 import "./MovieDetail.css";
+import CommonButton from '../Components/Common/CommonButton';
+
+const converDateToParams = date => {
+    return date.split("/").join("-")
+}
 
 class MovieDetail extends Component {
     componentDidMount() {
@@ -13,8 +18,8 @@ class MovieDetail extends Component {
         doGetOneMovie(match.params.id)
     }
     render() {
-        const { movie, getOneMovie } = this.props;
-        console.log(movie)
+        const { movie, getOneMovie, history } = this.props;
+        // console.log(movie.schedules)
         return (
             <div className="movie-detail" style={{
                 height: "100vh",
@@ -35,7 +40,23 @@ class MovieDetail extends Component {
                                 <li><span>Genre:</span> {movie.kind}</li>
                                 <li><span>Language:</span> {movie.language}</li>
                                 <li><span>Storyline:</span> {movie.content}</li>
-                                <li><span>Shedule show:</span> </li>
+                                <li>
+                                    <span>Shedule show:</span> {movie.schedules && movie.schedules.map((item, index) => {
+                                        return (
+                                            <CommonButton
+                                                children={item.start}
+                                                key={index}
+                                                style={{ marginRight: "8px" }}
+                                                onClick={() => {
+                                                    if (localStorage.getItem("token")) {
+                                                        history.push(`/booking/${item.movieId}/${converDateToParams(item.date)}/${item.start}`)
+                                                    }
+                                                    else history.push("/login")
+                                                }}
+                                            />
+                                        )
+                                    })}
+                                </li>
                             </ul>
                         </div>
                     </Container>

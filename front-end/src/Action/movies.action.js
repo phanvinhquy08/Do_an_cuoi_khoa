@@ -87,7 +87,7 @@ export const getOneMovieError = error => ({
 export const doGetOneMovie = id => async dispatch => {
     dispatch(getOneMovie());
     try {
-        const res = await axios.get(url.url_movies + "/" + id);
+        const res = await axios.get(url.url_movies + "/" + id + "?_embed=schedules");
         if(res && res.status === 200) {
             dispatch(getOneMovieSuccess(res.data))
         }

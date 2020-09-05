@@ -1,7 +1,6 @@
 .login {
-    background-image: url(../Img/footer-bg.png);
     background-repeat: no-repeat;
-    height:  55vh;
+    height:  70vh;
 }
 .login .container {
     display: flex;
@@ -20,4 +19,8 @@
 .login p {
     margin: 16px 0;
     text-align: center;
+    color: #FFF;
+}
+input {
+    color: #FFF;
 }

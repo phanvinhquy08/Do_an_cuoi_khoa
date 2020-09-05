@@ -1,0 +1,30 @@
+.home .list-shedule-movies {
+    padding-top: 40px;
+}
+.home .list-shedule-movies h2 {
+    color: #FC8500;
+    margin-bottom: 24px;
+}
+.home .list-shedule-movies .card-schedule {
+    padding: 16px 0;
+    display: flex;
+    /* border-bottom: 1px solid #FC8500; */
+    /* border-top: 1px solid #FC8500; */
+}
+.home  .list-shedule-movies .card-schedule p {
+    margin-bottom: 4px;
+}
+.home .list-shedule-movies .card-schedule i {
+    color: #FC8500;
+    margin-right: 8px;
+}
+.home .list-shedule-movies .card-schedule span {
+    color: #FFF;
+    font-size: 14px;
+}
+.home .list-shedule-movies .card-schedule .card-schedule-img {
+    margin-right: 24px;
+}
+.home .list-shedule-movies .card-schedule .card-schedule-img img {
+    width: 180px;
+}

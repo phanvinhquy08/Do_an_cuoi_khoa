@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -27,7 +27,6 @@
 }
 .footer .container li {
     list-style-type: none;
-    font-size: small;
 }
 .footer .container h6 {
     text-transform: uppercase;

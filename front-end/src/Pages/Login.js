@@ -45,7 +45,7 @@ class Login extends Component {
         return (
             login ? <Loading /> :
                 <div className="login">
-                    <Container style={{ marginTop: "100px" }}>
+                    <Container style={{ paddingTop: "100px" }}>
                         <form onSubmit={this.onSubmit}>
                             <CommonInput label="Email" name="email" type="email" value={email} onChange={this.onChange} />
                             <CommonInput label="Password" name="password" type="password" value={password} onChange={this.onChange} />

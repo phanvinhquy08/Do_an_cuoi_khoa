@@ -7,6 +7,7 @@ import login from './Login/LoginReducer';
 import news from './News/NewsReducer';
 import booking from './Booking/BookingReducer';
 import movies from './Movies/MoviesReducer';
+import adminMovies from './AdminMovies/AdminMovieReducer';
 
 export default combineReducers({
     home,
@@ -15,5 +16,6 @@ export default combineReducers({
     about,
     news,
     booking,
-    movies
+    movies,
+    adminMovies
 })

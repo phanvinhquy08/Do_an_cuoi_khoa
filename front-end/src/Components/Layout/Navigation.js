@@ -9,11 +9,17 @@ import {
   NavLink,
   Button,
   Container,
+  UncontrolledDropdown,
+  DropdownToggle,
+  DropdownMenu,
+  DropdownItem
 } from "reactstrap";
 import { Link } from "react-router-dom";
 
 import "./Navigation.css";
 import { connect } from "react-redux";
+import logo from '../../Img/logo.svg';
+import * as act from '../../Action/booking.action';
 
 class Navigation extends Component {
   state = {
@@ -78,28 +84,33 @@ class Navigation extends Component {
       },
     });
   };
+  logOut = () => {
+    localStorage.removeItem("currentAccount");
+    localStorage.removeItem("token");
+    window.location.href = "/login";
+  }
   render() {
     const { isOpen, active } = this.state;
-    const { currentAccount } = this.props;
+    const { currentAccount, openOrderDrawer } = this.props;
     return (
       <div className="navigation">
-        <Navbar color="light" light expand="md" fixed="top">
-          <Container style={{padding: "0 8px"}}>
+        <Navbar color="light" light expand="md">
+          <Container style={{ padding: "0 8px" }}>
             <NavbarBrand
               tag={Link}
               to="/"
               className="navigation-logo"
               onClick={this.activeNone}
             >
-              CinemaXXX
+              <img src={logo} />
             </NavbarBrand>
             <NavbarToggler onClick={this.toggle} />
             <Collapse isOpen={isOpen} navbar>
-              <Nav className="mr-auto" navbar>
+              <Nav className="ml-auto" navbar>
                 <NavItem
                   className={`navigation-item ${active.about ? "active" : ""}`}
                 >
-                  <NavLink tag={Link} to="/about" onClick={this.activeAbout}>
+                  <NavLink onClick={this.activeAbout}>
                     About
                   </NavLink>
                   <div className="navigation-stick" />
@@ -107,7 +118,7 @@ class Navigation extends Component {
                 <NavItem
                   className={`navigation-item ${active.news ? "active" : ""}`}
                 >
-                  <NavLink tag={Link} to="/news" onClick={this.activeNews}>
+                  <NavLink onClick={this.activeNews}>
                     News
                   </NavLink>
                   <div className="navigation-stick" />
@@ -127,31 +138,50 @@ class Navigation extends Component {
                 >
                   <NavLink
                     tag={Link}
-                    to="/booking"
+                    to="/"
                     onClick={this.activeBooking}
                   >
                     Booking
                   </NavLink>
                   <div className="navigation-stick" />
                 </NavItem>
+
               </Nav>
               {currentAccount ?
                 <div className="navigation-user">
                   <div className="navigation-user-img"></div>
                   {currentAccount.email}
+                  <UncontrolledDropdown nav inNavbar>
+                    <DropdownToggle nav caret>
+
+                    </DropdownToggle>
+                    <DropdownMenu right>
+                      <DropdownItem onClick={this.logOut}>
+                        Log out
+                      </DropdownItem>
+                      <DropdownItem divider />
+                      <DropdownItem onClick={() => {
+                        openOrderDrawer();
+                        this.props.doGetOrder(currentAccount.email)
+                      }}>
+                        Tickets
+                      </DropdownItem>
+                    </DropdownMenu>
+                  </UncontrolledDropdown>
                 </div>
                 :
                 <div className="navigation-btn-group">
                   <Link to="/register">
                     <Button className="navigation-btn" onClick={this.activeNone}>
                       Register
-                  </Button>
+                    </Button>
                   </Link>
                   <Link to="/login">
                     <Button className="navigation-btn" onClick={this.activeNone}>
                       Login
-                  </Button>
+                    </Button>
                   </Link>
+
                 </div>
               }
 
@@ -167,8 +197,10 @@ const mapStateToProps = (state) => ({
   currentAccount: state.login.currentAccount
 })
 
-const mapDispatchToProps = {
-  
-}
+const mapDispatchToProps = dispatch => ({
+  doGetOrder: (email) => {
+    dispatch(act.doGetOrder(email))
+  }
+})
 
 export default connect(mapStateToProps, mapDispatchToProps)(Navigation)

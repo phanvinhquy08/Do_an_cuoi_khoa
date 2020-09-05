@@ -4,11 +4,11 @@ import { Container } from 'reactstrap';
 
 
 import * as act from '../Action/movies.action';
-import CardMovie from '../Components/Movies/CardMovie';
-import CarouselMovie from '../Components/Movies/Carousel';
+import Carousel from '../Components/Movies/Carousel2';
 import Tab from '../Components/Movies/Tab';
 import Loading from '../Components/Common/Loading';
 import "./Movies.css"
+
 
 class Movies extends Component {
     componentDidMount() {
@@ -20,7 +20,7 @@ class Movies extends Component {
             <>
                 {getAllMovie && <Loading />}
                 <div className="movies">
-                    <CarouselMovie movies={Allmovies} history={history} />
+                    <Carousel movies={Allmovies} history={history}/>
                     <Tab history={history}/>
                 </div>
             </>

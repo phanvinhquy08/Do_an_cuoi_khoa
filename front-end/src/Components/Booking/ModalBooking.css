@@ -1,0 +1,29 @@
+.modal-booking {
+    max-width: 700px !important;
+}
+.modal-header button {
+    background: transparent !important;
+    box-shadow: none;
+}
+.modal-content {
+    background: #212529;
+    color: #FC8500 ;
+}
+.modal-body {
+    max-height: 300px;
+    overflow-x: hidden;
+    overflow-x: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.modal-body .modal-booking-img img {
+    width: 80px;
+}
+.modal-body>div {
+    /* border-left: 1px solid #FC8500; */
+}
+.modal-booking-title {
+    max-width: 300px;
+}
